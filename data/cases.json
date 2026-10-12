@@ -360,6 +360,21 @@
     "score": 5.0
   },
   {
+    "id": "b794d99cce50",
+    "url": "https://github.com/sqwu/rea-gems",
+    "title": "sqwu/rea-gems",
+    "source": "github",
+    "category": "GitHub · ai-agents, awesome-list, binary-analysis",
+    "description": "A curated, auto-updated gallery of excellent reverse-engineering cases built with REA (reverse engineer anything) - refreshed daily by GitHub Actions",
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "score": 5.0
+  },
+  {
     "id": "7f62c9e15df4",
     "url": "https://github.com/tuunanet/rea-ski-or-die-reconstruction",
     "title": "tuunanet/rea-ski-or-die-reconstruction",

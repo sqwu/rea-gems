@@ -1,7 +1,7 @@
 # REA Gems
 
 [![Auto-updated daily](https://img.shields.io/badge/auto--updated-daily-brightgreen)](https://github.com/sqwu/rea-gems/actions/workflows/update.yml)
-[![Cases](https://img.shields.io/badge/cases-27-blue)](data/cases.json)
+[![Cases](https://img.shields.io/badge/cases-28-blue)](data/cases.json)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 **A curated, auto-updated gallery of excellent reverse-engineering cases built with [REA](https://github.com/morluto/rea).**
@@ -13,7 +13,7 @@ This repo tracks the best things people have **understood, rebuilt or
 reconstructed** with it: official case studies, community projects, blog posts
 and discussions, collected automatically from across the web.
 
-> **27 cases** collected · **27 added in the last 30 days** · last refresh: **2026-10-12 (UTC)**
+> **28 cases** collected · **28 added in the last 30 days** · last refresh: **2026-10-12 (UTC)**
 
 <details>
 <summary><strong>Disclaimer</strong></summary>
@@ -63,6 +63,7 @@ Open-source repos, rebuilds and reimplementations made with REA.
 | [miles990/rea-awesome](https://github.com/miles990/rea-awesome) | GitHub project | GitHub | — | 2026-10-12 |
 | [Prabhendra/Reverse-engineer-anything](https://github.com/Prabhendra/Reverse-engineer-anything) | GitHub project | GitHub · agent-skills, ai-agents, binary-analysis | — | 2026-10-12 |
 | [Rojios/Reverse-Engineer-Anything](https://github.com/Rojios/Reverse-Engineer-Anything) | GitHub project | GitHub | — | 2026-10-12 |
+| [sqwu/rea-gems](https://github.com/sqwu/rea-gems) | GitHub project | GitHub · ai-agents, awesome-list, binary-analysis | — | 2026-10-12 |
 | [tuunanet/rea-ski-or-die-reconstruction](https://github.com/tuunanet/rea-ski-or-die-reconstruction) | GitHub project | GitHub · dos-games, reverse-engineering, rust | — | 2026-10-12 |
 | [inematds/rea-engenharia-reversa](https://github.com/inematds/rea-engenharia-reversa) | GitHub project | GitHub | — | 2026-10-12 |
 | [ylwl1997/rea-run](https://github.com/ylwl1997/rea-run) | GitHub project | GitHub | — | 2026-10-12 |
