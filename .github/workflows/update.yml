@@ -1,0 +1,44 @@
+name: Daily case refresh
+
+on:
+  schedule:
+    # Daily at 03:17 UTC (11:17 Beijing) — odd minute avoids top-of-hour load
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-case-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new cases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_cases.py
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "rea-gems-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md data/
+            git commit -m "chore: daily case refresh ($(date -u +'%Y-%m-%d'))"
+            git push
+          else
+            echo "No changes detected — skipping commit."
+          fi
