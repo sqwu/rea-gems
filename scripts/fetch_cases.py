@@ -700,6 +700,13 @@ def main():
         if manual:
             print(f"[manual] {len(manual)} item(s)")
 
+        # Never index this gallery itself
+        self_url = f"https://github.com/{REPO_SLUG}".lower()
+        incoming = [it for it in incoming
+                    if canonical_url(it["url"]).lower() != self_url]
+        existing = [it for it in existing
+                    if canonical_url(it["url"]).lower() != self_url]
+
         print(f"total incoming: {len(incoming)}")
         cases, new_count = merge_cases(existing, incoming)
         print(f"merged: {len(cases)} cases ({new_count} new)")
