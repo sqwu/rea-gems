@@ -1,5 +1,9 @@
 # REA Gems
 
+<p align="center">
+  <img src="assets/logo.svg" width="120" alt="REA Gems logo" />
+</p>
+
 [![Auto-updated daily](https://img.shields.io/badge/auto--updated-daily-brightgreen)](https://github.com/sqwu/rea-gems/actions/workflows/update.yml)
 [![Cases](https://img.shields.io/badge/cases-27-blue)](data/cases.json)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
@@ -12,6 +16,10 @@ coding agent to tools for inspecting native binaries, JavaScript/Electron apps,
 This repo tracks the best things people have **understood, rebuilt or
 reconstructed** with it: official case studies, community projects, blog posts
 and discussions, collected automatically from across the web.
+
+<p align="center">
+  <img src="assets/og-cover.svg" width="640" alt="REA Gems — cover banner" />
+</p>
 
 > **27 cases** collected · **27 added in the last 30 days** · last refresh: **2026-10-12 (UTC)**
 

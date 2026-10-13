@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="gem" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#a371f7"/>
+      <stop offset="45%" stop-color="#6e40c9"/>
+      <stop offset="100%" stop-color="#2e1a5e"/>
+    </linearGradient>
+    <linearGradient id="facetL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d2a8ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="facetR" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ee787" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2ea043" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.45"/>
+      <stop offset="70%" stop-color="#a371f7" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="gemClip">
+      <path d="M128 44 L196 100 L128 212 L60 100 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <circle cx="128" cy="112" r="100" fill="url(#glow)"/>
+
+  <!-- gem outline -->
+  <path d="M128 44 L196 100 L128 212 L60 100 Z" fill="url(#gem)" stroke="#d2a8ff" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- internal facets -->
+  <path d="M128 44 L128 212" stroke="#d2a8ff" stroke-width="1.5" opacity="0.55"/>
+  <path d="M60 100 L196 100" stroke="#d2a8ff" stroke-width="1.5" opacity="0.55"/>
+  <path d="M60 100 L128 44 L196 100" fill="url(#facetL)"/>
+  <path d="M128 44 L196 100 L128 212" fill="url(#facetR)"/>
+  <path d="M60 100 L128 212 L128 100 Z" fill="#1a1033" opacity="0.25"/>
+
+  <!-- binary code embedded in gem -->
+  <g clip-path="url(#gemClip)" font-family="'JetBrains Mono','SF Mono',monospace" font-size="9" font-weight="700" fill="#e6deff" opacity="0.75">
+    <text x="88" y="96">1011</text>
+    <text x="140" y="96">0100</text>
+    <text x="100" y="116">x48</text>
+    <text x="146" y="116">0xFF</text>
+    <text x="86" y="136">MOV</text>
+    <text x="138" y="136">CMP</text>
+    <text x="104" y="156">JZ</text>
+    <text x="140" y="156">0010</text>
+    <text x="96" y="176">1101</text>
+    <text x="138" y="176">EAX</text>
+  </g>
+
+  <!-- highlight sparkle -->
+  <path d="M128 44 L150 74 L128 100 L106 74 Z" fill="#ffffff" opacity="0.12"/>
+  <circle cx="112" cy="72" r="3" fill="#ffffff" opacity="0.7"/>
+  <circle cx="148" cy="88" r="2" fill="#ffffff" opacity="0.5"/>
+</svg>
