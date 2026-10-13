@@ -149,16 +149,74 @@ def canonical_url(u):
     )
 
 
+# --------------------------------------------------------------------------
+# Auto-classification: infer platform + type tags from text
+# --------------------------------------------------------------------------
+PLATFORM_RULES = [
+    ("android",     re.compile(r"(?i)\bandroid|apk|arm64|kotlin|jetpack\b")),
+    ("electron",    re.compile(r"(?i)\belectron|asar|ipc\b")),
+    ("native",      re.compile(r"(?i)\bnative|x64|x86|pe32|elf|mach-o|executable\b")),
+    ("dos",         re.compile(r"(?i)\bdos|pc-98|ms-dos\b")),
+    ("web",         re.compile(r"(?i)\bweb|javascript|typescript|next\.?js|react|vue\b")),
+    (".net",        re.compile(r"(?i)\b\.net|c#|csharp|dotnet|assembly\b")),
+    ("ios",         re.compile(r"(?i)\bios|swift|objective-c|ipa\b")),
+    ("windows",     re.compile(r"(?i)\bwindows|win32|\.exe|msi\b")),
+    ("linux",       re.compile(r"(?i)\blinux|fedora|ubuntu|deb\b")),
+    ("macos",       re.compile(r"(?i)\bmacos|mac os|darwin|\.app\b")),
+]
+
+TYPE_RULES = [
+    ("reconstruction",   re.compile(r"(?i)\breconstruct|rebuild|reimplement|port\b")),
+    ("feature-tracing",  re.compile(r"(?i)\btrace|feature|api|clipboard\b")),
+    ("decompilation",    re.compile(r"(?i)\bdecompil|disassembl|ghidra|hopper|ida\b")),
+    ("ctf",              re.compile(r"(?i)\bctf|flag|challenge\b")),
+    ("binary-analysis",  re.compile(r"(?i)\bbinary|byte|instruction|opcode\b")),
+    ("security-audit",   re.compile(r"(?i)\bleak|security|vulnerab|exploit\b")),
+]
+
+SOURCE_TYPE_MAP = {
+    "official-showcase": "official", "official-blog": "official",
+    "github": "community", "github-shared": "community",
+    "discussion": "discussion", "hackernews": "discussion",
+    "reddit": "discussion", "manual": "community",
+}
+
+
+def auto_classify(item):
+    """Infer platform + type tags from title, description, and URL."""
+    blob = f"{item.get('title','')} {item.get('description','')} {item.get('category','')} {item.get('url','')}"
+    tags = []
+    for label, pat in PLATFORM_RULES:
+        if pat.search(blob):
+            tags.append(label)
+    for label, pat in TYPE_RULES:
+        if pat.search(blob):
+            tags.append(label)
+    # Source type
+    src_type = SOURCE_TYPE_MAP.get(item.get("source", ""), "community")
+    if src_type not in tags:
+        tags.append(src_type)
+    # Deduplicate, preserve order
+    seen = set()
+    deduped = []
+    for t in tags:
+        if t not in seen:
+            seen.add(t)
+            deduped.append(t)
+    return deduped
+
+
 def make_item(url, title, source, category="", description="", stars=0,
               hn_points=0, comments=0, published_at=None):
     url = canonical_url(url)
-    return {
+    item = {
         "id": hashlib.sha1(url.encode()).hexdigest()[:12],
         "url": url,
         "title": truncate(strip_tags(title), 140),
         "source": source,
         "category": category or "General",
         "description": truncate(strip_tags(description), 300),
+        "tags": [],
         "stars": int(stars or 0),
         "hn_points": int(hn_points or 0),
         "comments": int(comments or 0),
@@ -166,6 +224,8 @@ def make_item(url, title, source, category="", description="", stars=0,
         "first_seen": None,
         "last_seen": date.today().isoformat(),
     }
+    item["tags"] = auto_classify(item)
+    return item
 
 
 # --------------------------------------------------------------------------
@@ -499,6 +559,8 @@ def merge_cases(existing, incoming):
                 cur["description"] = it["description"]
     merged = list(by_url.values())
     for it in merged:
+        if not it.get("tags"):
+            it["tags"] = auto_classify(it)
         it["score"] = compute_score(it)
     merged.sort(key=lambda x: (-x["score"], x["title"].lower()))
     return merged, new_count
@@ -531,16 +593,21 @@ SOURCE_LABELS = {
 }
 
 
+def tag_chips(it):
+    tags = it.get("tags") or []
+    return " ".join(f"`{t}`" for t in tags[:5]) if tags else "—"
+
+
 def render_table(items, max_rows=60):
     lines = [
-        "| Case | Source | Category | Highlights | First seen |",
-        "|------|--------|----------|------------|------------|",
+        "| Case | Source | Tags | Highlights | First seen |",
+        "|------|--------|------|------------|------------|",
     ]
     for it in items[:max_rows]:
         lines.append(
             f"| [{cell(it['title'])}]({it['url']}) "
             f"| {cell(SOURCE_LABELS.get(it['source'], it['source']))} "
-            f"| {cell(it['category'])} "
+            f"| {tag_chips(it)} "
             f"| {highlights(it)} "
             f"| {it.get('first_seen') or '—'} |"
         )
@@ -619,6 +686,8 @@ purposes.
 - [Posts & discussions](#posts--discussions)
 - [How cases are collected](#how-cases-are-collected)
 - [Contributing](#contributing)
+
+> **Live gallery**: [sqwu.github.io/rea-gems](https://sqwu.github.io/rea-gems/) — interactive visual gallery with tag filtering and search.
 """
     ]
 

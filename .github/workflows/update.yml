@@ -31,12 +31,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_cases.py
 
+      - name: Sync data for GitHub Pages
+        run: |
+          mkdir -p docs/data
+          cp data/cases.json docs/data/cases.json
+
       - name: Commit and push if changed
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "rea-gems-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md data/
+            git add README.md data/ docs/
             git commit -m "chore: daily case refresh ($(date -u +'%Y-%m-%d'))"
             git push
           else

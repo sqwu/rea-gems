@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REA Gems — Reverse-Engineering Case Gallery</title>
+<meta property="og:title" content="REA Gems — Reverse-Engineering Case Gallery">
+<meta property="og:description" content="A curated, auto-updated gallery of excellent reverse-engineering cases built with REA.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<style>
+  :root{
+    --bg:#0d1117; --card:#161b22; --border:#30363d; --text:#f0f6fc;
+    --muted:#8b949e; --accent:#a371f7; --green:#7ee787; --blue:#58a6ff;
+    --radius:12px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;line-height:1.6}
+  a{color:var(--blue);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  .hero{text-align:center;padding:64px 24px 40px;background:linear-gradient(180deg,#1c1333 0%,var(--bg) 100%)}
+  .hero img{width:96px;height:96px;margin-bottom:16px}
+  .hero h1{font-size:2.5rem;font-weight:800;margin-bottom:8px;
+    background:linear-gradient(135deg,var(--accent),var(--green));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+  .hero p{color:var(--muted);font-size:1.1rem;max-width:600px;margin:0 auto 8px}
+  .hero .stats{display:flex;gap:24px;justify-content:center;margin-top:20px;flex-wrap:wrap}
+  .hero .stat{text-align:center}
+  .hero .stat .num{font-size:1.8rem;font-weight:700;color:var(--accent)}
+  .hero .stat .lbl{font-size:0.8rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px}
+
+  .controls{position:sticky;top:0;z-index:10;background:rgba(13,17,23,0.92);backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--border);padding:16px 24px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+  .search{flex:1;min-width:200px;padding:10px 16px;background:var(--card);border:1px solid var(--border);
+    border-radius:8px;color:var(--text);font-size:0.95rem}
+  .search:focus{outline:none;border-color:var(--accent)}
+  .search::placeholder{color:var(--muted)}
+  .sort-btns{display:flex;gap:8px}
+  .sort-btns button{padding:8px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;
+    color:var(--muted);font-size:0.85rem;cursor:pointer;transition:all 0.15s}
+  .sort-btns button.active,.sort-btns button:hover{border-color:var(--accent);color:var(--accent)}
+
+  .tags-bar{padding:8px 24px;display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+  .tag-chip{padding:6px 14px;border-radius:20px;font-size:0.8rem;font-weight:600;cursor:pointer;
+    background:var(--card);border:1px solid var(--border);color:var(--muted);transition:all 0.15s;user-select:none}
+  .tag-chip:hover{border-color:var(--accent);color:var(--text)}
+  .tag-chip.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px;padding:24px;max-width:1400px;margin:0 auto}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:24px;
+    transition:border-color 0.2s,transform 0.15s;display:flex;flex-direction:column;gap:12px}
+  .card:hover{border-color:var(--accent);transform:translateY(-2px)}
+  .card .src-badge{display:inline-block;font-size:0.7rem;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;
+    padding:3px 10px;border-radius:12px;width:fit-content}
+  .src-official{background:rgba(115,82,200,0.2);color:var(--accent)}
+  .src-community{background:rgba(46,160,67,0.15);color:var(--green)}
+  .src-discussion{background:rgba(88,166,255,0.15);color:var(--blue)}
+  .card h3{font-size:1.05rem;font-weight:600;line-height:1.4}
+  .card h3 a{color:var(--text)}
+  .card h3 a:hover{color:var(--accent);text-decoration:none}
+  .card .desc{color:var(--muted);font-size:0.85rem;line-height:1.5;flex-grow:1}
+  .card .meta{display:flex;gap:12px;flex-wrap:wrap;align-items:center;font-size:0.8rem;color:var(--muted)}
+  .card .meta .hl{display:flex;gap:4px;align-items:center}
+  .card .tag-row{display:flex;gap:6px;flex-wrap:wrap}
+  .card .tag-row span{font-size:0.72rem;padding:3px 8px;border-radius:6px;
+    background:rgba(163,113,247,0.1);color:var(--accent);font-weight:600}
+  .card .tag-row span.type-tag{background:rgba(126,231,135,0.08);color:var(--green)}
+  .card .date{color:var(--muted);font-size:0.75rem}
+
+  .empty{text-align:center;padding:80px 24px;color:var(--muted);font-size:1.1rem}
+  footer{text-align:center;padding:40px 24px;color:var(--muted);font-size:0.8rem;border-top:1px solid var(--border)}
+  footer a{color:var(--accent)}
+  .loading{text-align:center;padding:120px 24px;color:var(--muted)}
+  .loading .spinner{width:40px;height:40px;border:3px solid var(--border);border-top-color:var(--accent);
+    border-radius:50%;margin:0 auto 16px;animation:spin 0.8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media(max-width:640px){.hero h1{font-size:1.8rem}.grid{grid-template-columns:1fr;padding:16px}}
+</style>
+</head>
+<body>
+<div class="hero">
+  <img src="assets/logo.svg" alt="REA Gems logo">
+  <h1>REA Gems</h1>
+  <p>A curated, auto-updated gallery of reverse-engineering cases built with
+    <a href="https://github.com/morluto/rea" target="_blank" rel="noopener">REA</a>.</p>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="controls">
+  <input type="text" class="search" id="search" placeholder="Search cases by title, description, or tag…">
+  <div class="sort-btns">
+    <button data-sort="score" class="active">Top</button>
+    <button data-sort="stars">Stars</button>
+    <button data-sort="date">Newest</button>
+  </div>
+</div>
+<div class="tags-bar" id="tags-bar"></div>
+<div id="content"><div class="loading"><div class="spinner"></div>Loading cases…</div></div>
+
+<script>
+let allCases=[], activeTags=new Set(), sortBy='score', searchTerm='';
+
+const srcBadge=(s)=>s.includes('official')?'official':s.includes('github')?'community':'discussion';
+const srcLabel=(s)=>{
+  const m={'official-showcase':'Official showcase','official-blog':'Official blog',
+    'github':'GitHub project','github-shared':'GitHub (from HN)','discussion':'GitHub discussion',
+    'hackernews':'Hacker News','reddit':'Reddit','manual':'Manually curated'};
+  return m[s]||s;
+};
+const fmtNum=(n)=>n>999?(n/1000).toFixed(1)+'k':n;
+const fmtDate=(d)=>d?d:'—';
+
+function highlight(it){
+  let parts=[];
+  if(it.stars)parts.push('★ '+fmtNum(it.stars));
+  if(it.hn_points)parts.push('HN '+fmtNum(it.hn_points));
+  if(it.comments)parts.push('💬 '+fmtNum(it.comments));
+  return parts.join(' · ')||'';
+}
+
+function renderCard(it){
+  const sb=srcBadge(it.source);
+  const tags=(it.tags||[]).map(t=>`<span class="${t.includes('-')?'type-tag':''}">${t}</span>`).join('');
+  const hl=highlight(it);
+  return `<div class="card">
+    <span class="src-badge src-${sb}">${srcLabel(it.source)}</span>
+    <h3><a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+    <p class="desc">${esc(it.description||'')}</p>
+    <div class="tag-row">${tags}</div>
+    <div class="meta">
+      ${hl?`<span class="hl">${hl}</span>`:''}
+      <span class="date">📅 ${fmtDate(it.first_seen)}</span>
+    </div>
+  </div>`;
+}
+
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+
+function render(){
+  let filtered=allCases.filter(c=>{
+    if(activeTags.size&&!c.tags.some(t=>activeTags.has(t)))return false;
+    if(searchTerm){
+      const q=searchTerm.toLowerCase();
+      const blob=(c.title+' '+c.description+' '+(c.tags||[]).join(' ')).toLowerCase();
+      if(!blob.includes(q))return false;
+    }
+    return true;
+  });
+
+  filtered.sort((a,b)=>{
+    if(sortBy==='stars')return (b.stars||0)-(a.stars||0);
+    if(sortBy==='date')return((b.first_seen||'')>(a.first_seen||''))?1:-1;
+    return (b.score||0)-(a.score||0);
+  });
+
+  const el=document.getElementById('content');
+  if(!filtered.length){el.innerHTML='<div class="empty">No cases match your filters.</div>';return}
+  el.innerHTML='<div class="grid">'+filtered.map(renderCard).join('')+'</div>';
+}
+
+function buildTagBar(){
+  const counts={};
+  allCases.forEach(c=>(c.tags||[]).forEach(t=>{counts[t]=(counts[t]||0)+1}));
+  const sorted=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,18);
+  document.getElementById('tags-bar').innerHTML=sorted.map(([tag,count])=>
+    `<span class="tag-chip" data-tag="${tag}">${tag} <span style="opacity:0.5">${count}</span></span>`
+  ).join('');
+  document.querySelectorAll('.tag-chip').forEach(chip=>{
+    chip.onclick=()=>{
+      const tag=chip.dataset.tag;
+      if(activeTags.has(tag)){activeTags.delete(tag);chip.classList.remove('active')}
+      else{activeTags.add(tag);chip.classList.add('active')}
+      render();
+    };
+  });
+}
+
+function buildStats(){
+  const total=allCases.length;
+  const tags=new Set();allCases.forEach(c=>(c.tags||[]).forEach(t=>tags.add(t)));
+  const cutoff=new Date();cutoff.setDate(cutoff.getDate()-30);
+  const recent=allCases.filter(c=>c.first_seen&&new Date(c.first_seen)>=cutoff).length;
+  document.getElementById('stats').innerHTML=
+    `<div class="stat"><div class="num">${total}</div><div class="lbl">Cases</div></div>
+     <div class="stat"><div class="num">${tags.size}</div><div class="lbl">Tags</div></div>
+     <div class="stat"><div class="num">${recent}</div><div class="lbl">New (30d)</div></div>`;
+}
+
+document.getElementById('search').oninput=e=>{searchTerm=e.target.value;render()};
+document.querySelectorAll('.sort-btns button').forEach(btn=>{
+  btn.onclick=()=>{sortBy=btn.dataset.sort;
+    document.querySelectorAll('.sort-btns button').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');render()};
+});
+
+fetch('data/cases.json')
+  .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
+  .then(data=>{
+    allCases=data||[];
+    buildStats();buildTagBar();render();
+  })
+  .catch(()=>{
+    document.getElementById('content').innerHTML=
+      '<div class="empty">Failed to load <code>data/cases.json</code>.<br>The daily refresh may not have run yet.</div>';
+  });
+</script>
+</body>
+</html>

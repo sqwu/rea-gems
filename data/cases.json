@@ -11,8 +11,12 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 44.94
+    "last_seen": "2026-10-13",
+    "score": 44.92,
+    "tags": [
+      "reconstruction",
+      "official"
+    ]
   },
   {
     "id": "3a7e2d76c455",
@@ -26,8 +30,15 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 40.0
+    "last_seen": "2026-10-13",
+    "score": 40.0,
+    "tags": [
+      "native",
+      "windows",
+      "reconstruction",
+      "binary-analysis",
+      "official"
+    ]
   },
   {
     "id": "ccd3e45872ef",
@@ -41,8 +52,13 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 40.0
+    "last_seen": "2026-10-13",
+    "score": 40.0,
+    "tags": [
+      "android",
+      "feature-tracing",
+      "official"
+    ]
   },
   {
     "id": "c38e3b1f5d65",
@@ -56,8 +72,14 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 40.0
+    "last_seen": "2026-10-13",
+    "score": 40.0,
+    "tags": [
+      "electron",
+      "web",
+      "feature-tracing",
+      "official"
+    ]
   },
   {
     "id": "f20c2cb96211",
@@ -71,8 +93,13 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 40.0
+    "last_seen": "2026-10-13",
+    "score": 40.0,
+    "tags": [
+      "dos",
+      "reconstruction",
+      "official"
+    ]
   },
   {
     "id": "5104b26a3ba0",
@@ -86,8 +113,32 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 40.0
+    "last_seen": "2026-10-13",
+    "score": 40.0,
+    "tags": [
+      "native",
+      "ctf",
+      "official"
+    ]
+  },
+  {
+    "id": "6d2511dfee62",
+    "url": "https://news.ycombinator.com/item?id=50058850",
+    "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+    "source": "hackernews",
+    "category": "Hacker News",
+    "description": "HN discussion: https://github.com/morluto/rea",
+    "tags": [
+      "native",
+      "discussion"
+    ],
+    "stars": 0,
+    "hn_points": 82,
+    "comments": 27,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 17.14
   },
   {
     "id": "5113e0d677ad",
@@ -102,7 +153,13 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 16.71
+    "score": 16.68,
+    "tags": [
+      "native",
+      "windows",
+      "decompilation",
+      "community"
+    ]
   },
   {
     "id": "9135d9263ffe",
@@ -111,13 +168,77 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链",
-    "stars": 15,
+    "stars": 21,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 13.29
+    "last_seen": "2026-10-13",
+    "score": 14.22,
+    "tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "15c389453c85",
+    "url": "https://github.com/czcdr/dsh-plugin-rea",
+    "title": "czcdr/dsh-plugin-rea",
+    "source": "github",
+    "category": "GitHub · binary-analysis, cordis-plugin, deepseek-harness",
+    "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
+    "stars": 3,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
+    "score": 9.13,
+    "tags": [
+      "android",
+      "electron",
+      "decompilation",
+      "binary-analysis",
+      "community"
+    ]
+  },
+  {
+    "id": "b5c104566cc1",
+    "url": "https://github.com/Fanqi89/dsh-rea",
+    "title": "Fanqi89/dsh-rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件",
+    "tags": [
+      "community"
+    ],
+    "stars": 2,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 8.27
+  },
+  {
+    "id": "5f2637e1fbb3",
+    "url": "https://github.com/laaielichter/reverseport",
+    "title": "laaielichter/reverseport",
+    "source": "github",
+    "category": "GitHub · ai-agents, binary-analysis, claude-code",
+    "description": "Reverse engineer anything. Port it anywhere. One CLI and MCP server that lets any coding agent take apart apps, games, binaries and websites — and port them to Godot, Unity, Unreal, three.js or any language.",
+    "stars": 2,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
+    "score": 8.27,
+    "tags": [
+      "web",
+      "reconstruction",
+      "binary-analysis",
+      "community"
+    ]
   },
   {
     "id": "8da75dd62b32",
@@ -131,8 +252,11 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 8.24
+    "last_seen": "2026-10-13",
+    "score": 8.21,
+    "tags": [
+      "discussion"
+    ]
   },
   {
     "id": "eabb04fd553f",
@@ -146,8 +270,11 @@
     "comments": 0,
     "published_at": "2026-10-08",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 8.11
+    "last_seen": "2026-10-13",
+    "score": 8.08,
+    "tags": [
+      "discussion"
+    ]
   },
   {
     "id": "638c7f274861",
@@ -161,8 +288,11 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.83
+    "last_seen": "2026-10-13",
+    "score": 7.81,
+    "tags": [
+      "discussion"
+    ]
   },
   {
     "id": "4c21043a2c35",
@@ -176,23 +306,12 @@
     "comments": 9,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.27
-  },
-  {
-    "id": "15c389453c85",
-    "url": "https://github.com/czcdr/dsh-plugin-rea",
-    "title": "czcdr/dsh-plugin-rea",
-    "source": "github",
-    "category": "GitHub · binary-analysis, cordis-plugin, deepseek-harness",
-    "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
-    "stars": 1,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-12",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.08
+    "last_seen": "2026-10-13",
+    "score": 7.25,
+    "tags": [
+      "reconstruction",
+      "discussion"
+    ]
   },
   {
     "id": "5369ddcbe2c9",
@@ -206,8 +325,13 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.08
+    "last_seen": "2026-10-13",
+    "score": 7.05,
+    "tags": [
+      "reconstruction",
+      "decompilation",
+      "community"
+    ]
   },
   {
     "id": "20e3df976d8a",
@@ -221,8 +345,14 @@
     "comments": 0,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.05
+    "last_seen": "2026-10-13",
+    "score": 7.02,
+    "tags": [
+      "windows",
+      "decompilation",
+      "binary-analysis",
+      "community"
+    ]
   },
   {
     "id": "f82a5f1790a7",
@@ -236,8 +366,32 @@
     "comments": 7,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 7.02
+    "last_seen": "2026-10-13",
+    "score": 7.0,
+    "tags": [
+      "android",
+      "linux",
+      "decompilation",
+      "discussion"
+    ]
+  },
+  {
+    "id": "482475583ce8",
+    "url": "https://github.com/ylwl1997/rea-run",
+    "title": "ylwl1997/rea-run",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Unofficial bilingual community docs for REA (Reverse Engineer Anything) — https://rea.run",
+    "stars": 1,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-10",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
+    "score": 7.0,
+    "tags": [
+      "community"
+    ]
   },
   {
     "id": "a2ead9f8db35",
@@ -251,8 +405,12 @@
     "comments": 1,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.69
+    "last_seen": "2026-10-13",
+    "score": 5.67,
+    "tags": [
+      "linux",
+      "discussion"
+    ]
   },
   {
     "id": "36f7f58498a7",
@@ -266,8 +424,14 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.64
+    "last_seen": "2026-10-13",
+    "score": 5.61,
+    "tags": [
+      "web",
+      "windows",
+      "security-audit",
+      "discussion"
+    ]
   },
   {
     "id": "381c48e820d5",
@@ -281,23 +445,151 @@
     "comments": 0,
     "published_at": "2026-07-14",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.27
+    "last_seen": "2026-10-13",
+    "score": 5.24,
+    "tags": [
+      "binary-analysis",
+      "discussion"
+    ]
   },
   {
-    "id": "5f2637e1fbb3",
-    "url": "https://github.com/laaielichter/reverseport",
-    "title": "laaielichter/reverseport",
-    "source": "github",
-    "category": "GitHub · ai-agents, binary-analysis, claude-code",
-    "description": "Reverse engineer anything. Port it anywhere. One CLI and MCP server that lets any coding agent take apart apps, games, binaries and websites — and port them to Godot, Unity, Unreal, three.js or any language.",
+    "id": "15fb135c1254",
+    "url": "https://github.com/morluto/rea/discussions/2254",
+    "title": "A stripped bzip2 build on Linux: what REA returned, checked against the build and the docs",
+    "source": "discussion",
+    "category": "Discussion · Show and tell",
+    "description": "**TL;DR:** I asked REA which function prints one message in a stripped, optimized bzip2 build. REA's function, one caller and 24 callees all matched an unstripped build and the source. It also refused two bad requests with typed errors, an…",
+    "tags": [
+      "linux",
+      "discussion"
+    ],
     "stars": 0,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.0
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "341722f23838",
+    "url": "https://github.com/ALC-kcurtis/rea",
+    "title": "ALC-kcurtis/rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "reverse engineer anything for mac",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "b4818f0c1513",
+    "url": "https://github.com/beyborges/REA",
+    "title": "beyborges/REA",
+    "source": "github",
+    "category": "GitHub · agent, binary-analysis, disassembler",
+    "description": "REA - Reverse Engineer Anything 6.3.0 (October 10, 2026). Agent RE desk: one MCP across binaries, JS, Electron and .NET. Hopper / Ghidra / IDA backends. Windows 10/11 x64.",
+    "tags": [
+      "electron",
+      "native",
+      "windows",
+      "decompilation",
+      "binary-analysis",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "120a78ce821b",
+    "url": "https://github.com/danihelenterprises/die-a-rea",
+    "title": "danihelenterprises/die-a-rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Decompiler Interference Engine Anti Reverse-Engineer Anything",
+    "tags": [
+      "decompilation",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "96a74c7cc6d1",
+    "url": "https://github.com/dmcchesney96/Reverse-engineer-anything",
+    "title": "dmcchesney96/Reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub",
+    "description": "",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "b6e1f1a5accd",
+    "url": "https://github.com/iammukeshm/hexgrab",
+    "title": "iammukeshm/hexgrab",
+    "source": "github",
+    "category": "GitHub · color-picker, csharp, dotnet",
+    "description": "A tiny .NET 10 color picker for Windows, built from a REA (Reverse Engineer Anything) study of the MIT-licensed PowerToys Color Picker.",
+    "tags": [
+      ".net",
+      "windows",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
+  },
+  {
+    "id": "cca0035829fa",
+    "url": "https://github.com/maximilianfeix/hexvero",
+    "title": "maximilianfeix/hexvero",
+    "source": "github",
+    "category": "GitHub · binary-analysis, electron, elf",
+    "description": "Reverse engineer anything, locally: zero-dependency static analysis for binaries, apps and web bundles with a compact MCP server, CLI and web UI.",
+    "tags": [
+      "electron",
+      "native",
+      "web",
+      "binary-analysis",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "score": 4.97
   },
   {
     "id": "ea47b34a8802",
@@ -311,8 +603,11 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.0
+    "last_seen": "2026-10-13",
+    "score": 4.97,
+    "tags": [
+      "community"
+    ]
   },
   {
     "id": "ca9728cdcb9b",
@@ -326,8 +621,12 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.0
+    "last_seen": "2026-10-13",
+    "score": 4.97,
+    "tags": [
+      "binary-analysis",
+      "community"
+    ]
   },
   {
     "id": "01f627c9fd70",
@@ -341,8 +640,12 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.0
+    "last_seen": "2026-10-13",
+    "score": 4.97,
+    "tags": [
+      "windows",
+      "discussion"
+    ]
   },
   {
     "id": "842c1fab4a14",
@@ -356,8 +659,11 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 5.0
+    "last_seen": "2026-10-13",
+    "score": 4.97,
+    "tags": [
+      "community"
+    ]
   },
   {
     "id": "7f62c9e15df4",
@@ -372,7 +678,12 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 4.97
+    "score": 4.94,
+    "tags": [
+      "dos",
+      "reconstruction",
+      "community"
+    ]
   },
   {
     "id": "0fd4404f4661",
@@ -386,22 +697,11 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 4.94
-  },
-  {
-    "id": "482475583ce8",
-    "url": "https://github.com/ylwl1997/rea-run",
-    "title": "ylwl1997/rea-run",
-    "source": "github",
-    "category": "GitHub",
-    "description": "Unofficial bilingual community docs for REA (Reverse Engineer Anything) — https://rea.run",
-    "stars": 0,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-10",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "score": 4.94
+    "last_seen": "2026-10-13",
+    "score": 4.92,
+    "tags": [
+      "decompilation",
+      "community"
+    ]
   }
 ]
