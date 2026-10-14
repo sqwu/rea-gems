@@ -15,8 +15,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 45.0
+    "last_seen": "2026-10-14",
+    "score": 44.97
   },
   {
     "id": "c42b48a7330d",
@@ -30,8 +30,8 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 44.92,
+    "last_seen": "2026-10-14",
+    "score": 44.89,
     "tags": [
       "reconstruction",
       "official"
@@ -49,7 +49,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "score": 40.0,
     "tags": [
       "native",
@@ -71,7 +71,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "score": 40.0,
     "tags": [
       "android",
@@ -91,7 +91,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "score": 40.0,
     "tags": [
       "electron",
@@ -112,7 +112,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "score": 40.0,
     "tags": [
       "dos",
@@ -132,7 +132,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "score": 40.0,
     "tags": [
       "native",
@@ -152,12 +152,12 @@
       "discussion"
     ],
     "stars": 0,
-    "hn_points": 91,
-    "comments": 31,
+    "hn_points": 98,
+    "comments": 32,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 17.48
+    "last_seen": "2026-10-14",
+    "score": 17.63
   },
   {
     "id": "5113e0d677ad",
@@ -172,7 +172,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 16.68,
+    "score": 16.65,
     "tags": [
       "native",
       "windows",
@@ -187,13 +187,13 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链",
-    "stars": 29,
+    "stars": 41,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 15.15,
+    "last_seen": "2026-10-14",
+    "score": 16.13,
     "tags": [
       "community"
     ]
@@ -209,13 +209,34 @@
       "decompilation",
       "community"
     ],
-    "stars": 9,
+    "stars": 16,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-09",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 11.8
+    "last_seen": "2026-10-14",
+    "score": 13.36
+  },
+  {
+    "id": "bde60fbc6ea2",
+    "url": "https://github.com/rea-githu/REA",
+    "title": "rea-githu/REA",
+    "source": "github",
+    "category": "GitHub · decompilation, game-reversing, github-rea",
+    "description": "REA Reverse Engineer Anything 6.3.0 is the local MCP zip: rea github, github rea, reverse engineer anything, rea mcp, morluto rea. Oct 10 2026. Windows 10/11 x64. Official free download. Local zip. Download:🡇",
+    "tags": [
+      "native",
+      "windows",
+      "decompilation",
+      "community"
+    ],
+    "stars": 5,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 10.35
   },
   {
     "id": "15c389453c85",
@@ -224,13 +245,13 @@
     "source": "github",
     "category": "GitHub · binary-analysis, cordis-plugin, deepseek-harness",
     "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
-    "stars": 4,
+    "stars": 5,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 9.8,
+    "last_seen": "2026-10-14",
+    "score": 10.32,
     "tags": [
       "android",
       "electron",
@@ -238,6 +259,45 @@
       "binary-analysis",
       "community"
     ]
+  },
+  {
+    "id": "20e3df976d8a",
+    "url": "https://github.com/pablodiazjorge/rea-lab",
+    "title": "pablodiazjorge/rea-lab",
+    "source": "github",
+    "category": "GitHub · agentic-ai, ai-agents, binary-analysis",
+    "description": "Reverse engineering with AI agents on Windows: verifying, measuring and visualising the tools agents use, with rea and Ghidra",
+    "stars": 3,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-11",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
+    "score": 9.08,
+    "tags": [
+      "windows",
+      "decompilation",
+      "binary-analysis",
+      "community"
+    ]
+  },
+  {
+    "id": "809d905dd0df",
+    "url": "https://github.com/dav1dngy/era-agent",
+    "title": "dav1dngy/era-agent",
+    "source": "github",
+    "category": "GitHub · mcp, nodejs, rea",
+    "description": "ERA – Evolve & Reverse Engineer Anything: an AI-powered reverse-engineering agent built on REA, with a controlled, evidence-driven Improvement Lab. Reverse. Analyze. Evolve. Repeat.",
+    "tags": [
+      "community"
+    ],
+    "stars": 2,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 8.27
   },
   {
     "id": "4d6b3ae6d53a",
@@ -254,8 +314,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 8.3
+    "last_seen": "2026-10-14",
+    "score": 8.27
   },
   {
     "id": "b5c104566cc1",
@@ -273,7 +333,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 8.27
+    "score": 8.24
   },
   {
     "id": "5f2637e1fbb3",
@@ -288,11 +348,31 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 8.27,
+    "score": 8.24,
     "tags": [
       "web",
       "reconstruction",
       "binary-analysis",
+      "community"
+    ]
+  },
+  {
+    "id": "5369ddcbe2c9",
+    "url": "https://github.com/pablodiazjorge/rea-casebook",
+    "title": "pablodiazjorge/rea-casebook",
+    "source": "github",
+    "category": "GitHub · ai-agents, claude-code, claude-code-mod",
+    "description": "A Claude Code mod that keeps a live casebook of the Evidence rea gives the agent: Ghidra cold start, findings that must cite real evidence_id values, Markdown export.",
+    "stars": 2,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
+    "score": 8.24,
+    "tags": [
+      "reconstruction",
+      "decompilation",
       "community"
     ]
   },
@@ -308,8 +388,8 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 8.21,
+    "last_seen": "2026-10-14",
+    "score": 8.18,
     "tags": [
       "discussion"
     ]
@@ -326,8 +406,8 @@
     "comments": 0,
     "published_at": "2026-10-08",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 8.08,
+    "last_seen": "2026-10-14",
+    "score": 8.05,
     "tags": [
       "discussion"
     ]
@@ -344,8 +424,8 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.81,
+    "last_seen": "2026-10-14",
+    "score": 7.78,
     "tags": [
       "discussion"
     ]
@@ -362,12 +442,49 @@
     "comments": 9,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.25,
+    "last_seen": "2026-10-14",
+    "score": 7.22,
     "tags": [
       "reconstruction",
       "discussion"
     ]
+  },
+  {
+    "id": "1937c174d70b",
+    "url": "https://github.com/sickpyramid/ReaFuse",
+    "title": "sickpyramid/ReaFuse",
+    "source": "github",
+    "category": "GitHub · ai-agents, clean-room, cli",
+    "description": "Built on REA (Reverse Engineer Anything): dissect two projects, fuse their capabilities, and grow a brand-new verified creature.",
+    "tags": [
+      "community"
+    ],
+    "stars": 1,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 7.05
+  },
+  {
+    "id": "c882d312a2cb",
+    "url": "https://github.com/xingxue-ux/dsh-reverse-mode",
+    "title": "xingxue-ux/dsh-reverse-mode",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Reverse-engineering agent preset for DeepSeek Harness: a REA (rea-agents) MCP bridge mounted only by the 逆向模式 preset, with an install-time analysis-engine self-check",
+    "tags": [
+      "native",
+      "community"
+    ],
+    "stars": 1,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
+    "score": 7.05
   },
   {
     "id": "cca0035829fa",
@@ -389,7 +506,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 7.05
+    "score": 7.02
   },
   {
     "id": "ea47b34a8802",
@@ -404,49 +521,45 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 7.05,
+    "score": 7.02,
     "tags": [
       "community"
     ]
   },
   {
-    "id": "5369ddcbe2c9",
-    "url": "https://github.com/pablodiazjorge/rea-casebook",
-    "title": "pablodiazjorge/rea-casebook",
+    "id": "71aea0e48ae8",
+    "url": "https://github.com/miles990/rea-case-rankings",
+    "title": "miles990/rea-case-rankings",
     "source": "github",
-    "category": "GitHub · ai-agents, claude-code, claude-code-mod",
-    "description": "A Claude Code mod that keeps a live casebook of the Evidence rea gives the agent: Ghidra cold start, findings that must cite real evidence_id values, Markdown export.",
+    "category": "GitHub · ai-agents, awesome-list, claude-code",
+    "description": "What people build and discover with REA (Reverse Engineer Anything): a daily-updated, scored ranking of cases, apps and write-ups.",
+    "tags": [
+      "community"
+    ],
     "stars": 1,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.05,
-    "tags": [
-      "reconstruction",
-      "decompilation",
-      "community"
-    ]
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 7.02
   },
   {
-    "id": "20e3df976d8a",
-    "url": "https://github.com/pablodiazjorge/rea-lab",
-    "title": "pablodiazjorge/rea-lab",
+    "id": "0fd4404f4661",
+    "url": "https://github.com/inematds/rea-engenharia-reversa",
+    "title": "inematds/rea-engenharia-reversa",
     "source": "github",
-    "category": "GitHub · agentic-ai, ai-agents, binary-analysis",
-    "description": "Reverse engineering with AI agents on Windows: verifying, measuring and visualising the tools agents use, with rea and Ghidra",
+    "category": "GitHub",
+    "description": "REA (Reverse Engineer Anything) explicado em PT/EN/ES: engenharia reversa com agentes de IA + Ghidra — links, casos, avaliação e cuidados",
     "stars": 1,
     "hn_points": 0,
     "comments": 0,
-    "published_at": "2026-10-11",
+    "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.02,
+    "last_seen": "2026-10-14",
+    "score": 6.97,
     "tags": [
-      "windows",
       "decompilation",
-      "binary-analysis",
       "community"
     ]
   },
@@ -462,8 +575,8 @@
     "comments": 7,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.0,
+    "last_seen": "2026-10-14",
+    "score": 6.97,
     "tags": [
       "android",
       "linux",
@@ -483,8 +596,8 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 7.0,
+    "last_seen": "2026-10-14",
+    "score": 6.97,
     "tags": [
       "community"
     ]
@@ -501,8 +614,8 @@
     "comments": 1,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 5.67,
+    "last_seen": "2026-10-14",
+    "score": 5.64,
     "tags": [
       "linux",
       "discussion"
@@ -520,8 +633,8 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 5.61,
+    "last_seen": "2026-10-14",
+    "score": 5.58,
     "tags": [
       "web",
       "windows",
@@ -541,12 +654,202 @@
     "comments": 0,
     "published_at": "2026-07-14",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 5.24,
+    "last_seen": "2026-10-14",
+    "score": 5.22,
     "tags": [
       "binary-analysis",
       "discussion"
     ]
+  },
+  {
+    "id": "1ceb6940d83a",
+    "url": "https://github.com/848gaming/anti-rea",
+    "title": "848gaming/anti-rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Anti-REA Defense, Binary Armor & AES-256-GCM Code-Lock Toolkit (Flutter libapp.so scrubber, JADX overload traps, .NET BSJB/RAM host, Electron fuse hardener & AST blinder) countering morluto/rea.",
+    "tags": [
+      "electron",
+      "binary-analysis",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "256ce9dca2ab",
+    "url": "https://github.com/morluto/rea/discussions/3098",
+    "title": "A 32K local model drove REA over MCP: 3 of 3 with 10 tools",
+    "source": "discussion",
+    "category": "Discussion · Show and tell",
+    "description": "**TL;DR:** A local 27B model with a 32K window drove REA over MCP and got the right answer 3 times out of 3. It worked only when the model saw about 10 tools. With the full tool list, nothing fits. The tool families in PR #3026 shrink the…",
+    "tags": [
+      "discussion"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "611f867b327b",
+    "url": "https://github.com/arwinwijaya/maw-rea",
+    "title": "arwinwijaya/maw-rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "REA: Reverse Engineer Anything",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "2cf5ed77c14e",
+    "url": "https://github.com/Gerrard-Lewu/reverse-engineer-anything",
+    "title": "Gerrard-Lewu/reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub",
+    "description": "pretty straightforward... will use this to reverse engineer whatever I want with LLMs",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "ae81e098eb8d",
+    "url": "https://github.com/junaid-bacha/reverse-engineer-anything",
+    "title": "junaid-bacha/reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub",
+    "description": "REA",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "cf19cb6ab11d",
+    "url": "https://github.com/makimeaqua/rea-empty-placeholder",
+    "title": "makimeaqua/rea-empty-placeholder",
+    "source": "github",
+    "category": "GitHub",
+    "description": "REA (Reverse Engineer Anything) - fork with a Windows desktop launcher",
+    "tags": [
+      "windows",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "2069a48f0266",
+    "url": "https://github.com/morluto/rea/discussions/3110",
+    "title": "Project #000002: Tax Reborn now runs on desktop and Android (code + downloads)",
+    "source": "discussion",
+    "category": "Discussion · Show and tell",
+    "description": "After [Ledger Reborn #000001](https://github.com/morluto/rea/discussions/2198), **[Tax Reborn #000002](https://github.com/lxistired/tax-reborn)** now has a working special-capital-distribution workflow on Windows, Mac and Android. **[Sour…",
+    "tags": [
+      "android",
+      "windows",
+      "feature-tracing",
+      "discussion"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-14",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 5.0
+  },
+  {
+    "id": "0e0899e60592",
+    "url": "https://github.com/AdamLinCodes/AdamTerm",
+    "title": "AdamLinCodes/AdamTerm",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Minimal macOS terminal built by poking at Ghostty with REA (Reverse Engineer Anything)",
+    "tags": [
+      "macos",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "5d99d79d79e9",
+    "url": "https://github.com/alexmi256/rea-agent-docker",
+    "title": "alexmi256/rea-agent-docker",
+    "source": "github",
+    "category": "GitHub",
+    "description": "REA (Reverse Engineer Anything) in Docker: one image per analysis engine (Ghidra / Hopper / IDA) with a full reverse-engineering toolchain, MCP-ready for Hermes and other agents.",
+    "tags": [
+      "decompilation",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "bd1d2e084eb2",
+    "url": "https://github.com/andy778/ananasar",
+    "title": "andy778/ananasar",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Rust port of the public-domain Ananas Modbus/TCP tool — built with REA (rea.tools)",
+    "tags": [
+      "electron",
+      "reconstruction",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
   },
   {
     "id": "178f21a6893c",
@@ -564,7 +867,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 5.0
+    "score": 4.97
   },
   {
     "id": "3a052cdb0f19",
@@ -586,8 +889,29 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 5.0
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "fdba095a7526",
+    "url": "https://github.com/crabsoupT0T/rea-plus",
+    "title": "crabsoupT0T/rea-plus",
+    "source": "github",
+    "category": "GitHub",
+    "description": "More powerful agent-driven reverse engineering toolkit — MCP + CLI for deep analysis of binaries, Electron/JS apps, .NET, APKs and more. Inspired by REA with stronger evidence model, multi-provider support, and agent workflows.",
+    "tags": [
+      "android",
+      "electron",
+      "reconstruction",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
   },
   {
     "id": "b32618058cf7",
@@ -605,7 +929,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 5.0
+    "score": 4.97
   },
   {
     "id": "b0b6bfc5763e",
@@ -623,26 +947,84 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 5.0
+    "score": 4.97
   },
   {
-    "id": "c882d312a2cb",
-    "url": "https://github.com/xingxue-ux/dsh-reverse-mode",
-    "title": "xingxue-ux/dsh-reverse-mode",
+    "id": "2ddb42f501cd",
+    "url": "https://github.com/shreyvijayvargiya/reverse-engineer-crm",
+    "title": "shreyvijayvargiya/reverse-engineer-crm",
     "source": "github",
     "category": "GitHub",
-    "description": "Reverse-engineering agent preset for DeepSeek Harness: a REA (rea-agents) MCP bridge mounted only by the 逆向模式 preset, with an install-time analysis-engine self-check",
+    "description": "Reverse Engineer Anything to Build CRM",
     "tags": [
-      "native",
       "community"
     ],
     "stars": 0,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-13",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 5.0
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "151bb9d2b147",
+    "url": "https://github.com/stuinfla/morluto-rea-explainer",
+    "title": "stuinfla/morluto-rea-explainer",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Explainer site for morluto/rea",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "d298ceac6988",
+    "url": "https://github.com/UnknownHacker1/rea-groundtruth",
+    "title": "UnknownHacker1/rea-groundtruth",
+    "source": "github",
+    "category": "GitHub · ai-agents, electron, mcp",
+    "description": "Checking what REA (Reverse Engineer Anything) reports against what's actually in the code. One-command repros for its blind spots.",
+    "tags": [
+      "electron",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
+  },
+  {
+    "id": "23a4ac84e0a1",
+    "url": "https://github.com/Ydjin1984/rea-reverse-engineering",
+    "title": "Ydjin1984/rea-reverse-engineering",
+    "source": "github",
+    "category": "GitHub",
+    "description": "ZCode-плагин: реверс-инжиниринг через REA (rea-agents) — MCP-сервер с курируемым набором инструментов (Ghidra/IDA, .NET, APK, JavaScript/Electron, веб, прошивки, EVM) и скиллы маршрутизации целей с Evidence",
+    "tags": [
+      "android",
+      "electron",
+      "web",
+      "decompilation",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-13",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "score": 4.97
   },
   {
     "id": "15fb135c1254",
@@ -660,8 +1042,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 4.97
+    "last_seen": "2026-10-14",
+    "score": 4.94
   },
   {
     "id": "341722f23838",
@@ -679,7 +1061,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "b4818f0c1513",
@@ -702,7 +1084,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "120a78ce821b",
@@ -720,8 +1102,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 4.97
+    "last_seen": "2026-10-14",
+    "score": 4.94
   },
   {
     "id": "96a74c7cc6d1",
@@ -739,7 +1121,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "b6e1f1a5accd",
@@ -759,7 +1141,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "ca9728cdcb9b",
@@ -774,7 +1156,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.97,
+    "score": 4.94,
     "tags": [
       "binary-analysis",
       "community"
@@ -792,8 +1174,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 4.97,
+    "last_seen": "2026-10-14",
+    "score": 4.94,
     "tags": [
       "windows",
       "discussion"
@@ -812,7 +1194,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.97,
+    "score": 4.94,
     "tags": [
       "community"
     ]
@@ -833,8 +1215,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "score": 4.97
+    "last_seen": "2026-10-14",
+    "score": 4.94
   },
   {
     "id": "7f62c9e15df4",
@@ -849,29 +1231,10 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 4.94,
+    "score": 4.92,
     "tags": [
       "dos",
       "reconstruction",
-      "community"
-    ]
-  },
-  {
-    "id": "0fd4404f4661",
-    "url": "https://github.com/inematds/rea-engenharia-reversa",
-    "title": "inematds/rea-engenharia-reversa",
-    "source": "github",
-    "category": "GitHub",
-    "description": "REA (Reverse Engineer Anything) explicado em PT/EN/ES: engenharia reversa com agentes de IA + Ghidra — links, casos, avaliação e cuidados",
-    "stars": 0,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-10",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "score": 4.92,
-    "tags": [
-      "decompilation",
       "community"
     ]
   }
