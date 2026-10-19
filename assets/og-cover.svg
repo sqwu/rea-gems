@@ -1,111 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.6">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="55%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#1c1333"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f5f5f7"/>
     </linearGradient>
-    <linearGradient id="gem" x1="0" y1="0" x2="0.4" y2="1">
-      <stop offset="0%" stop-color="#a371f7"/>
-      <stop offset="50%" stop-color="#6e40c9"/>
-      <stop offset="100%" stop-color="#2e1a5e"/>
+    <linearGradient id="gem" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop offset="0%" stop-color="#5e5ce6"/>
+      <stop offset="55%" stop-color="#bf5af2"/>
+      <stop offset="100%" stop-color="#ff6482"/>
     </linearGradient>
-    <linearGradient id="facetL" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#d2a8ff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#8957e5" stop-opacity="0.5"/>
-    </linearGradient>
-    <linearGradient id="facetR" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7ee787" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#2ea043" stop-opacity="0.12"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.3" cy="0.45" r="0.5">
-      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.5"/>
-      <stop offset="60%" stop-color="#a371f7" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#bf5af2" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#bf5af2" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a371f7"/>
-      <stop offset="100%" stop-color="#7ee787"/>
-    </linearGradient>
-    <clipPath id="gemClip">
-      <path d="M320 130 L480 290 L320 530 L160 290 Z"/>
-    </clipPath>
   </defs>
 
-  <!-- background -->
   <rect width="1280" height="640" fill="url(#bg)"/>
-  <circle cx="320" cy="300" r="260" fill="url(#glow)"/>
-
-  <!-- decorative circuit lines -->
-  <g stroke="#a371f7" stroke-width="1.5" opacity="0.12" fill="none">
-    <path d="M0 80 H160 L200 120 H360"/>
-    <path d="M0 560 H120 L160 520 H280"/>
-    <path d="M480 60 H640 L680 100"/>
-    <path d="M520 580 H700"/>
-    <path d="M900 0 V80 L860 120"/>
-    <path d="M1280 200 H1180 L1140 240 H1000"/>
-  </g>
-  <g fill="#a371f7" opacity="0.25">
-    <circle cx="160" cy="120" r="4"/>
-    <circle cx="360" cy="120" r="4"/>
-    <circle cx="680" cy="100" r="4"/>
-    <circle cx="1140" cy="240" r="4"/>
-    <circle cx="280" cy="520" r="4"/>
-  </g>
-
-  <!-- floating assembly fragments -->
-  <g font-family="'JetBrains Mono','SF Mono',monospace" font-size="14" fill="#a371f7" opacity="0.18">
-    <text x="540" y="150">0x180124945: MOV EAX, [R13+0x18]</text>
-    <text x="560" y="175">0x18012494c: JZ 0x180124aba</text>
-    <text x="540" y="200">CMP EAX, 0x5c</text>
-    <text x="580" y="225">SHL RDX, 4</text>
-    <text x="540" y="250">CALL 0x1801250f0</text>
-    <text x="600" y="275">; recovered rule</text>
-    <text x="540" y="500">XOR EAX, EAX</text>
-    <text x="560" y="525">TEST RAX, RAX</text>
-    <text x="540" y="550">RET</text>
-    <text x="580" y="575">; verified ✓</text>
-  </g>
+  <ellipse cx="640" cy="205" rx="230" ry="150" fill="url(#glow)"/>
 
   <!-- gem -->
-  <g transform="translate(0,0)">
-    <path d="M320 130 L480 290 L320 530 L160 290 Z" fill="url(#gem)" stroke="#d2a8ff" stroke-width="3" stroke-linejoin="round"/>
-    <path d="M320 130 L320 530" stroke="#d2a8ff" stroke-width="2" opacity="0.5"/>
-    <path d="M160 290 L480 290" stroke="#d2a8ff" stroke-width="2" opacity="0.5"/>
-    <path d="M160 290 L320 130 L480 290" fill="url(#facetL)"/>
-    <path d="M320 130 L480 290 L320 530" fill="url(#facetR)"/>
-    <path d="M160 290 L320 530 L320 290 Z" fill="#1a1033" opacity="0.25"/>
-    <!-- binary in gem -->
-    <g clip-path="url(#gemClip)" font-family="'JetBrains Mono','SF Mono',monospace" font-size="15" font-weight="700" fill="#e6deff" opacity="0.7">
-      <text x="230" y="275">1011</text>
-      <text x="350" y="275">0100</text>
-      <text x="250" y="310">MOV</text>
-      <text x="350" y="310">CMP</text>
-      <text x="240" y="345">0xFF</text>
-      <text x="350" y="345">JZ</text>
-      <text x="250" y="380">1101</text>
-      <text x="340" y="380">EAX</text>
-    </g>
-    <path d="M320 130 L370 190 L320 290 L270 190 Z" fill="#ffffff" opacity="0.1"/>
-    <circle cx="294" cy="186" r="5" fill="#ffffff" opacity="0.6"/>
-    <circle cx="358" cy="226" r="3" fill="#ffffff" opacity="0.4"/>
-  </g>
+  <path d="M613 128 L667 128 L707 192 L640 290 L573 192 Z" fill="url(#gem)"/>
+  <path d="M613 128 L667 128 L640 192 Z" fill="#ffffff" opacity="0.25"/>
+  <path d="M613 128 L573 192 L613 192 Z" fill="#ffffff" opacity="0.12"/>
+  <path d="M667 128 L707 192 L667 192 Z" fill="#ffffff" opacity="0.08"/>
+  <path d="M573 192 L640 290 L640 192 Z" fill="#0b0b2a" opacity="0.10"/>
+  <path d="M573 192 L707 192" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.5"/>
 
-  <!-- title text block -->
-  <g transform="translate(620,0)">
-    <text x="0" y="200" font-family="'Segoe UI',system-ui,sans-serif" font-size="76" font-weight="800" fill="#f0f6fc">REA Gems</text>
-    <rect x="0" y="226" width="520" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="0" y="285" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="500" fill="#c9d1d9">Reverse-engineering cases built with REA</text>
-    <text x="0" y="330" font-family="'JetBrains Mono','SF Mono',monospace" font-size="22" fill="#7ee787" opacity="0.85">★ auto-updated daily · GitHub Actions</text>
-
-    <!-- mini badges -->
-    <g font-family="'Segoe UI',system-ui,sans-serif" font-size="20" font-weight="600">
-      <rect x="0" y="380" width="250" height="44" rx="22" fill="#238636"/>
-      <text x="125" y="409" text-anchor="middle" fill="#ffffff">github.com/sqwu/rea-gems</text>
-      <rect x="270" y="380" width="170" height="44" rx="22" fill="#21262d" stroke="#30363d" stroke-width="1.5"/>
-      <text x="355" y="409" text-anchor="middle" fill="#7ee787">27 cases</text>
-      <rect x="460" y="380" width="120" height="44" rx="22" fill="#21262d" stroke="#30363d" stroke-width="1.5"/>
-      <text x="520" y="409" text-anchor="middle" fill="#a371f7">MIT</text>
-    </g>
-  </g>
+  <!-- name + one-line description -->
+  <text x="640" y="415" text-anchor="middle"
+        font-family="-apple-system,'SF Pro Display','Helvetica Neue','Segoe UI',sans-serif"
+        font-size="88" font-weight="700" letter-spacing="-2.5" fill="#1d1d1f">REA Gems</text>
+  <text x="640" y="472" text-anchor="middle"
+        font-family="-apple-system,'SF Pro Display','Helvetica Neue','Segoe UI',sans-serif"
+        font-size="29" font-weight="400" fill="#86868b">Excellent reverse-engineering cases built with REA.</text>
 </svg>
