@@ -15,8 +15,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
-    "score": 44.78
+    "last_seen": "2026-10-22",
+    "score": 44.75
   },
   {
     "id": "c42b48a7330d",
@@ -30,8 +30,8 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 44.69,
+    "last_seen": "2026-10-22",
+    "score": 44.67,
     "tags": [
       "reconstruction",
       "official"
@@ -49,7 +49,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "score": 40.0,
     "tags": [
       "native",
@@ -71,7 +71,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "score": 40.0,
     "tags": [
       "android",
@@ -91,7 +91,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "score": 40.0,
     "tags": [
       "electron",
@@ -112,7 +112,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "score": 40.0,
     "tags": [
       "dos",
@@ -132,7 +132,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "score": 40.0,
     "tags": [
       "native",
@@ -150,13 +150,13 @@
     "tags": [
       "community"
     ],
-    "stars": 1216,
+    "stars": 1322,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-21",
-    "score": 26.2
+    "last_seen": "2026-10-22",
+    "score": 26.42
   },
   {
     "id": "9b0798b54872",
@@ -169,13 +169,13 @@
       "reconstruction",
       "community"
     ],
-    "stars": 95,
+    "stars": 106,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
-    "score": 18.53
+    "last_seen": "2026-10-22",
+    "score": 18.82
   },
   {
     "id": "b680eaaf62b1",
@@ -188,13 +188,13 @@
       "reconstruction",
       "community"
     ],
-    "stars": 96,
+    "stars": 107,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
-    "score": 18.5
+    "last_seen": "2026-10-22",
+    "score": 18.8
   },
   {
     "id": "6d2511dfee62",
@@ -212,8 +212,8 @@
     "comments": 38,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
-    "score": 17.64
+    "last_seen": "2026-10-22",
+    "score": 17.62
   },
   {
     "id": "9135d9263ffe",
@@ -222,13 +222,13 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链",
-    "stars": 67,
+    "stars": 71,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 17.38,
+    "last_seen": "2026-10-22",
+    "score": 17.52,
     "tags": [
       "community"
     ]
@@ -252,7 +252,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-18",
-    "score": 16.77
+    "score": 16.74
   },
   {
     "id": "5113e0d677ad",
@@ -267,7 +267,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 16.46,
+    "score": 16.43,
     "tags": [
       "native",
       "windows",
@@ -285,13 +285,13 @@
     "tags": [
       "community"
     ],
-    "stars": 42,
+    "stars": 47,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
-    "score": 16.03
+    "last_seen": "2026-10-22",
+    "score": 16.34
   },
   {
     "id": "bde60fbc6ea2",
@@ -312,7 +312,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 15.69
+    "score": 15.66
   },
   {
     "id": "48e797d2e851",
@@ -325,13 +325,13 @@
       "decompilation",
       "community"
     ],
-    "stars": 35,
+    "stars": 36,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-09",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
-    "score": 15.42
+    "last_seen": "2026-10-22",
+    "score": 15.47
   },
   {
     "id": "15c389453c85",
@@ -340,13 +340,13 @@
     "source": "github",
     "category": "GitHub · binary-analysis, cordis-plugin, deepseek-harness",
     "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
-    "stars": 26,
+    "stars": 28,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 14.64,
+    "last_seen": "2026-10-22",
+    "score": 14.82,
     "tags": [
       "android",
       "electron",
@@ -362,13 +362,13 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) explicado em PT/EN/ES: engenharia reversa com agentes de IA + Ghidra — links, casos, avaliação e cuidados",
-    "stars": 20,
+    "stars": 28,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 13.83,
+    "last_seen": "2026-10-22",
+    "score": 14.77,
     "tags": [
       "decompilation",
       "community"
@@ -389,8 +389,8 @@
     "comments": 8,
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "score": 13.53
+    "last_seen": "2026-10-22",
+    "score": 13.5
   },
   {
     "id": "809d905dd0df",
@@ -407,8 +407,26 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21",
-    "score": 12.9
+    "last_seen": "2026-10-22",
+    "score": 12.87
+  },
+  {
+    "id": "631dc0510e5e",
+    "url": "https://github.com/awesomerea/awesome-rea",
+    "title": "awesomerea/awesome-rea",
+    "source": "github",
+    "category": "GitHub",
+    "description": "A curated list of resources for REA (Reverse Engineer Anything): guides, showcases, docs, integrations, and articles for AI-agent reverse engineering.",
+    "tags": [
+      "community"
+    ],
+    "stars": 10,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-15",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-22",
+    "score": 12.0
   },
   {
     "id": "2a7034b862ae",
@@ -427,7 +445,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-21",
-    "score": 11.77
+    "score": 11.74
   },
   {
     "id": "4773fa73b6fa",
@@ -448,7 +466,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 10.78
+    "score": 10.75
   },
   {
     "id": "6fe8a4137e42",
@@ -470,7 +488,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
-    "score": 10.75
+    "score": 10.73
   },
   {
     "id": "20e3df976d8a",
@@ -485,31 +503,13 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-20",
-    "score": 10.56,
+    "score": 10.53,
     "tags": [
       "windows",
       "decompilation",
       "binary-analysis",
       "community"
     ]
-  },
-  {
-    "id": "631dc0510e5e",
-    "url": "https://github.com/awesomerea/awesome-rea",
-    "title": "awesomerea/awesome-rea",
-    "source": "github",
-    "category": "GitHub",
-    "description": "A curated list of resources for REA (Reverse Engineer Anything): guides, showcases, docs, integrations, and articles for AI-agent reverse engineering.",
-    "tags": [
-      "community"
-    ],
-    "stars": 5,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-15",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-17",
-    "score": 10.21
   },
   {
     "id": "c882d312a2cb",
@@ -528,7 +528,26 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-18",
-    "score": 10.15
+    "score": 10.13
+  },
+  {
+    "id": "bebc745cb248",
+    "url": "https://github.com/ReverseEngineer-Anything/REA-Github",
+    "title": "ReverseEngineer-Anything/REA-Github",
+    "source": "github",
+    "category": "GitHub · decompilation, game-reversing, github-rea",
+    "description": "REA Reverse Engineer Anything 6.3.0 hooks Hopper, Ghidra and IDA over MCP. rea github / rea mcp match the morluto rea tree, github rea alias, streaming JSON in and out. October 10 2026 pinned.",
+    "tags": [
+      "decompilation",
+      "community"
+    ],
+    "stars": 4,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-21",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 9.8
   },
   {
     "id": "5d99d79d79e9",
@@ -547,7 +566,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-19",
-    "score": 9.61
+    "score": 9.58
   },
   {
     "id": "76fd9061d28f",
@@ -568,7 +587,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
-    "score": 9.58
+    "score": 9.55
   },
   {
     "id": "90882be382d6",
@@ -589,7 +608,26 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-18",
-    "score": 9.05
+    "score": 9.02
+  },
+  {
+    "id": "fc43bdd6d930",
+    "url": "https://github.com/KoNit-K/papertrade-research",
+    "title": "KoNit-K/papertrade-research",
+    "source": "github",
+    "category": "GitHub · defi, hyperevm, open-research",
+    "description": "Independent Papertrade reverse engineering with REA: frontend flows, contract bytecode, trading costs, liquidations and PAPER dividends.",
+    "tags": [
+      "binary-analysis",
+      "community"
+    ],
+    "stars": 2,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-21",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 8.27
   },
   {
     "id": "4d6b3ae6d53a",
@@ -607,7 +645,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "score": 8.07
+    "score": 8.05
   },
   {
     "id": "5f2637e1fbb3",
@@ -622,7 +660,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 8.05,
+    "score": 8.02,
     "tags": [
       "web",
       "reconstruction",
@@ -645,8 +683,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21",
-    "score": 8.05
+    "last_seen": "2026-10-22",
+    "score": 8.02
   },
   {
     "id": "5369ddcbe2c9",
@@ -661,7 +699,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-14",
-    "score": 8.05,
+    "score": 8.02,
     "tags": [
       "reconstruction",
       "decompilation",
@@ -680,8 +718,8 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 7.99,
+    "last_seen": "2026-10-22",
+    "score": 7.96,
     "tags": [
       "discussion"
     ]
@@ -698,8 +736,8 @@
     "comments": 0,
     "published_at": "2026-10-08",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 7.86,
+    "last_seen": "2026-10-22",
+    "score": 7.83,
     "tags": [
       "discussion"
     ]
@@ -716,11 +754,30 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 7.58,
+    "last_seen": "2026-10-22",
+    "score": 7.56,
     "tags": [
       "discussion"
     ]
+  },
+  {
+    "id": "f3b5a689bc3a",
+    "url": "https://github.com/womp08310-cyber/rea-antigravity",
+    "title": "womp08310-cyber/rea-antigravity",
+    "source": "github",
+    "category": "GitHub",
+    "description": "? One-command automated installer for REA (Reverse Engineer Anything), Ghidra, JADX, and OpenJDK 21 for Google Antigravity",
+    "tags": [
+      "decompilation",
+      "community"
+    ],
+    "stars": 1,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 7.08
   },
   {
     "id": "fa7d22a3b80f",
@@ -740,8 +797,8 @@
     "comments": 0,
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "score": 7.05
+    "last_seen": "2026-10-22",
+    "score": 7.02
   },
   {
     "id": "4c21043a2c35",
@@ -755,8 +812,8 @@
     "comments": 9,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 7.02,
+    "last_seen": "2026-10-22",
+    "score": 7.0,
     "tags": [
       "reconstruction",
       "discussion"
@@ -780,7 +837,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
-    "score": 7.0
+    "score": 6.97
   },
   {
     "id": "c37219e64fab",
@@ -799,7 +856,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 7.0
+    "score": 6.97
   },
   {
     "id": "d89c1fe0dd20",
@@ -817,7 +874,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 6.94
+    "score": 6.91
   },
   {
     "id": "59568b0a95b2",
@@ -835,7 +892,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 6.91
+    "score": 6.88
   },
   {
     "id": "8c8e9487746e",
@@ -855,7 +912,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.91
+    "score": 6.88
   },
   {
     "id": "528ad1ddbc20",
@@ -875,28 +932,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 6.91
-  },
-  {
-    "id": "f82a5f1790a7",
-    "url": "https://github.com/morluto/rea/discussions/1435",
-    "title": "REA on Fedora-based Linux: setup notes, gotchas and my test queue",
-    "source": "discussion",
-    "category": "Discussion · Show and tell",
-    "description": "**TL;DR:** I tested REA on a Fedora-based Linux box (Nobara 44). Ghidra, Chromium, pwntools, the Android lane and the installer all work. Every Linux fix named here shipped in 6.4.0 or earlier, and this page is the one place for the Linux…",
-    "stars": 0,
-    "hn_points": 0,
-    "comments": 8,
-    "published_at": "2026-10-10",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 6.89,
-    "tags": [
-      "android",
-      "linux",
-      "decompilation",
-      "discussion"
-    ]
+    "score": 6.88
   },
   {
     "id": "cb8aad625fcf",
@@ -916,7 +952,28 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 6.88
+    "score": 6.86
+  },
+  {
+    "id": "f82a5f1790a7",
+    "url": "https://github.com/morluto/rea/discussions/1435",
+    "title": "REA on Fedora-based Linux: setup notes, gotchas and my test queue",
+    "source": "discussion",
+    "category": "Discussion · Show and tell",
+    "description": "**TL;DR:** I tested REA on a Fedora-based Linux box (Nobara 44). Ghidra, Chromium, pwntools, the Android lane and the installer all work. Every Linux fix named here shipped in 6.4.0 or earlier, and this page is the one place for the Linux…",
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 8,
+    "published_at": "2026-10-10",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-22",
+    "score": 6.86,
+    "tags": [
+      "android",
+      "linux",
+      "decompilation",
+      "discussion"
+    ]
   },
   {
     "id": "0b99c3ce4b73",
@@ -934,7 +991,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.86
+    "score": 6.83
   },
   {
     "id": "1937c174d70b",
@@ -952,7 +1009,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 6.86
+    "score": 6.83
   },
   {
     "id": "151bb9d2b147",
@@ -970,7 +1027,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 6.86
+    "score": 6.83
   },
   {
     "id": "cca0035829fa",
@@ -992,7 +1049,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 6.83
+    "score": 6.8
   },
   {
     "id": "ea47b34a8802",
@@ -1007,7 +1064,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 6.83,
+    "score": 6.8,
     "tags": [
       "community"
     ]
@@ -1028,7 +1085,7 @@
     "published_at": "2026-10-10",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.77
+    "score": 6.75
   },
   {
     "id": "482475583ce8",
@@ -1043,7 +1100,7 @@
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-21",
-    "score": 6.77,
+    "score": 6.75,
     "tags": [
       "community"
     ]
@@ -1064,7 +1121,7 @@
     "published_at": "2026-10-09",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 6.75
+    "score": 6.72
   },
   {
     "id": "4f4a4a646ad8",
@@ -1082,8 +1139,26 @@
     "comments": 3,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
-    "score": 6.22
+    "last_seen": "2026-10-22",
+    "score": 6.19
+  },
+  {
+    "id": "aac740f0ab90",
+    "url": "https://github.com/kirinchen/goldsrc-agent-kit",
+    "title": "kirinchen/goldsrc-agent-kit",
+    "source": "github",
+    "category": "GitHub · ai-agent, bsp, claude-code",
+    "description": "Edit compiled GoldSrc / CS 1.6 maps (.bsp) by talking to an AI agent: shrink maps, move spawns, collision checks, 3D browser picker. Engine rules verified with Reverse Engineer Anything.",
+    "tags": [
+      "community"
+    ],
+    "stars": 1,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-09-12",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.97
   },
   {
     "id": "a2ead9f8db35",
@@ -1097,8 +1172,8 @@
     "comments": 2,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 5.85,
+    "last_seen": "2026-10-22",
+    "score": 5.82,
     "tags": [
       "linux",
       "discussion"
@@ -1116,8 +1191,8 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 5.79,
+    "last_seen": "2026-10-22",
+    "score": 5.77,
     "tags": [
       "web",
       "windows",
@@ -1140,8 +1215,8 @@
     "comments": 1,
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
-    "score": 5.67
+    "last_seen": "2026-10-22",
+    "score": 5.64
   },
   {
     "id": "6fef4d2dd0e4",
@@ -1161,8 +1236,8 @@
     "comments": 1,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-21",
-    "score": 5.55
+    "last_seen": "2026-10-22",
+    "score": 5.53
   },
   {
     "id": "d25318ecde41",
@@ -1181,8 +1256,8 @@
     "comments": 1,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
-    "score": 5.53
+    "last_seen": "2026-10-22",
+    "score": 5.5
   },
   {
     "id": "256ce9dca2ab",
@@ -1199,8 +1274,121 @@
     "comments": 1,
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21",
-    "score": 5.5
+    "last_seen": "2026-10-22",
+    "score": 5.47
+  },
+  {
+    "id": "0139952cacd5",
+    "url": "https://github.com/Anjub004/ai-reverse-engineering-with-rea",
+    "title": "Anjub004/ai-reverse-engineering-with-rea",
+    "source": "github",
+    "category": "GitHub · ai-agents, electron, javascript",
+    "description": "Hands-on companion to my Medium article on REA (Reverse Engineer Anything): a safe demo app, real REA output, and a rebuild-and-verify exercise.",
+    "tags": [
+      "electron",
+      "web",
+      "reconstruction",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
+  },
+  {
+    "id": "f39aca26d58d",
+    "url": "https://github.com/chalhoub120-png/reverse-engineer-anything-SKILL.md",
+    "title": "chalhoub120-png/reverse-engineer-anything-SKILL.md",
+    "source": "github",
+    "category": "GitHub",
+    "description": "",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
+  },
+  {
+    "id": "b34a8cd290e4",
+    "url": "https://github.com/lai123434/reverse-engineer-anythingdoubao",
+    "title": "lai123434/reverse-engineer-anythingdoubao",
+    "source": "github",
+    "category": "GitHub",
+    "description": "AI原生的逆向工程粗筛CLI（豆包Agent适配版）：零依赖PE模块拆分、风险打分、中文Markdown报告，融合DIE/FLOSS/UPX",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
+  },
+  {
+    "id": "ed7464a55721",
+    "url": "https://github.com/Speedrunlab/reverse-engineer-anything",
+    "title": "Speedrunlab/reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Reverse engineer anything you're authorised to: binaries, apps, firmware and captured traffic, with standard open-source tools and evidence discipline. Agent-agnostic. MIT.",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
+  },
+  {
+    "id": "21c5b8df6526",
+    "url": "https://github.com/thisisntartificial/rea-agent-skill",
+    "title": "thisisntartificial/rea-agent-skill",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Agent skill / plugin implementing the REA (Reverse Engineer Anything) workflow from Miles Deutscher's guide and detailed reverse-engineering processes. Clean-room, evidence-based feature reverse engineering with AI agents.",
+    "tags": [
+      "feature-tracing",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
+  },
+  {
+    "id": "65a3bcd0abe6",
+    "url": "https://github.com/Ujjawal-Chandrakar/rea-copy",
+    "title": "Ujjawal-Chandrakar/rea-copy",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries. (mirrored from Ujjawal-Chandrakar/rea)",
+    "tags": [
+      "native",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-22",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 5.0
   },
   {
     "id": "381c48e820d5",
@@ -1214,12 +1402,30 @@
     "comments": 0,
     "published_at": "2026-07-14",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 5.02,
+    "last_seen": "2026-10-22",
+    "score": 4.99,
     "tags": [
       "binary-analysis",
       "discussion"
     ]
+  },
+  {
+    "id": "646e3d013c03",
+    "url": "https://github.com/chilliesdev/fmseasonhub-re",
+    "title": "chilliesdev/fmseasonhub-re",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Reverse engineering analysis of FM Season Hub (v0.8.2.1) using REA (morluto/rea)",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-21",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 4.97
   },
   {
     "id": "e0471361a4df",
@@ -1237,7 +1443,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 5.0
+    "score": 4.97
   },
   {
     "id": "b197d3880480",
@@ -1255,7 +1461,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 5.0
+    "score": 4.97
   },
   {
     "id": "2ce6a657333c",
@@ -1274,7 +1480,25 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 5.0
+    "score": 4.97
+  },
+  {
+    "id": "1b62a0e0d8e6",
+    "url": "https://github.com/modyhassan2028-ux/rea-agents",
+    "title": "modyhassan2028-ux/rea-agents",
+    "source": "github",
+    "category": "GitHub",
+    "description": "rea - reverse engineering agent (complete buildable fork of morluto/rea, MIT) with vendored third_party submodules",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-21",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 4.97
   },
   {
     "id": "ab99a5db0834",
@@ -1293,7 +1517,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 5.0
+    "score": 4.97
   },
   {
     "id": "470189e9f886",
@@ -1311,7 +1535,26 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 5.0
+    "score": 4.97
+  },
+  {
+    "id": "46ef6f7b903c",
+    "url": "https://github.com/vtrsharvin-sj/rea-rl-mcp",
+    "title": "vtrsharvin-sj/rea-rl-mcp",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Text-first reverse engineering MCP with real REA tools, local Q-learning, OKF knowledge export, visual fallback, and frontend reconstruction.",
+    "tags": [
+      "reconstruction",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-21",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 4.97
   },
   {
     "id": "5c360d320da2",
@@ -1329,7 +1572,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "e05e98129790",
@@ -1347,7 +1590,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "d8e6e3c3df51",
@@ -1367,7 +1610,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "21ff85ef8351",
@@ -1387,7 +1630,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "4287d01e7355",
@@ -1405,7 +1648,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "8e22c3fa8e40",
@@ -1423,7 +1666,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "bd84e302724a",
@@ -1441,7 +1684,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "36d98b1f75c4",
@@ -1459,8 +1702,8 @@
     "comments": 0,
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-10-21",
-    "score": 4.94
+    "last_seen": "2026-10-22",
+    "score": 4.92
   },
   {
     "id": "69302c2bced8",
@@ -1478,7 +1721,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "11eba74f21eb",
@@ -1496,7 +1739,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "fd2b05eb9aa3",
@@ -1514,7 +1757,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "5e375539a1fe",
@@ -1532,7 +1775,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "f62f92151ddf",
@@ -1550,7 +1793,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "cdaf8dc58e56",
@@ -1567,8 +1810,8 @@
     "comments": 0,
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
-    "score": 4.94
+    "last_seen": "2026-10-22",
+    "score": 4.92
   },
   {
     "id": "dba539427ed5",
@@ -1586,7 +1829,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "48d149f9b020",
@@ -1605,7 +1848,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "3f83135f1eda",
@@ -1624,7 +1867,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "5e7647fe7b4a",
@@ -1643,7 +1886,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "2edac9480f02",
@@ -1661,7 +1904,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "cb2f824f5ceb",
@@ -1682,7 +1925,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "86455a12199d",
@@ -1700,7 +1943,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-19",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "26fae797e209",
@@ -1718,7 +1961,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "8b7272273238",
@@ -1736,7 +1979,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "57f5f6e14f78",
@@ -1753,8 +1996,8 @@
     "comments": 0,
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
-    "score": 4.92
+    "last_seen": "2026-10-22",
+    "score": 4.89
   },
   {
     "id": "5f615eee8ea6",
@@ -1772,7 +2015,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "24ca19a403f3",
@@ -1790,7 +2033,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "43888872272c",
@@ -1808,7 +2051,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "7dc01958242f",
@@ -1826,8 +2069,8 @@
     "comments": 0,
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "score": 4.92
+    "last_seen": "2026-10-22",
+    "score": 4.89
   },
   {
     "id": "c7f54a62baa1",
@@ -1845,7 +2088,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "635d33547d44",
@@ -1863,7 +2106,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "8cad60757159",
@@ -1883,7 +2126,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "c549730b2fe1",
@@ -1903,7 +2146,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "a3ba1f1bee4c",
@@ -1921,7 +2164,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "d6de680e817f",
@@ -1940,7 +2183,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "07a53bc987f4",
@@ -1959,7 +2202,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-21",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "e60a69363c35",
@@ -1978,8 +2221,8 @@
     "comments": 0,
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-21",
-    "score": 4.89
+    "last_seen": "2026-10-22",
+    "score": 4.86
   },
   {
     "id": "6a6cbdcb2263",
@@ -1998,7 +2241,26 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.89
+    "score": 4.86
+  },
+  {
+    "id": "e86cffac7659",
+    "url": "https://github.com/wilsonwu-ai/rea-explained",
+    "title": "wilsonwu-ai/rea-explained",
+    "source": "github",
+    "category": "GitHub · agent-skills, claude-code, clean-room",
+    "description": "REA (Reverse Engineer Anything), explained in plain English: what it does, the evidence-first method behind it, and where the line is. Ships the clean-room-rebuild skill.",
+    "tags": [
+      "reconstruction",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-17",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "score": 4.86
   },
   {
     "id": "6b25cfd62a7c",
@@ -2016,7 +2278,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "57b32b5b6227",
@@ -2036,7 +2298,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "e6ccb64316ae",
@@ -2053,8 +2315,8 @@
     "comments": 0,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-21",
-    "score": 4.86
+    "last_seen": "2026-10-22",
+    "score": 4.83
   },
   {
     "id": "183b081f665b",
@@ -2072,7 +2334,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "0a2712ed1d76",
@@ -2090,7 +2352,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "6fae20f0fd19",
@@ -2108,7 +2370,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "624f08407f3c",
@@ -2127,7 +2389,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-17",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "d9a7da6dadac",
@@ -2145,7 +2407,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "6ee92a8e421d",
@@ -2163,7 +2425,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "44c630cc64c8",
@@ -2180,8 +2442,8 @@
     "comments": 0,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-17",
-    "score": 4.86
+    "last_seen": "2026-10-22",
+    "score": 4.83
   },
   {
     "id": "68bc1b94eb13",
@@ -2199,7 +2461,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "84a4a8798453",
@@ -2217,7 +2479,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "c1192aff5f0b",
@@ -2235,7 +2497,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "11164c56e906",
@@ -2253,7 +2515,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "b02b8f77eb09",
@@ -2271,7 +2533,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "2624c5f73638",
@@ -2289,7 +2551,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "ed648dd30ed6",
@@ -2306,8 +2568,8 @@
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
-    "score": 4.83
+    "last_seen": "2026-10-22",
+    "score": 4.81
   },
   {
     "id": "0192b7aa8b7c",
@@ -2329,8 +2591,8 @@
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-21",
-    "score": 4.83
+    "last_seen": "2026-10-22",
+    "score": 4.81
   },
   {
     "id": "dc9c69f9ef70",
@@ -2348,7 +2610,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "d72fa55f1581",
@@ -2366,7 +2628,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "8ed51ceb0bbd",
@@ -2385,7 +2647,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "1ceb6940d83a",
@@ -2405,7 +2667,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "36ce44da03b7",
@@ -2423,7 +2685,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-17",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "611f867b327b",
@@ -2441,7 +2703,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "2cf5ed77c14e",
@@ -2459,7 +2721,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-17",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "0053bdcee9db",
@@ -2477,7 +2739,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "ae81e098eb8d",
@@ -2495,7 +2757,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "cf19cb6ab11d",
@@ -2514,7 +2776,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "2069a48f0266",
@@ -2535,7 +2797,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "71e5e565482c",
@@ -2556,7 +2818,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-16",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "b03df9b972fb",
@@ -2573,8 +2835,8 @@
     "comments": 0,
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21",
-    "score": 4.81
+    "last_seen": "2026-10-22",
+    "score": 4.78
   },
   {
     "id": "0e0899e60592",
@@ -2593,7 +2855,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "bd1d2e084eb2",
@@ -2613,7 +2875,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-18",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "178f21a6893c",
@@ -2631,7 +2893,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "3a052cdb0f19",
@@ -2654,7 +2916,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "fdba095a7526",
@@ -2675,7 +2937,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-19",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "b32618058cf7",
@@ -2693,7 +2955,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "b0b6bfc5763e",
@@ -2711,7 +2973,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "2ddb42f501cd",
@@ -2729,7 +2991,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "d298ceac6988",
@@ -2748,7 +3010,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "23a4ac84e0a1",
@@ -2770,7 +3032,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "15fb135c1254",
@@ -2788,8 +3050,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-21",
-    "score": 4.75
+    "last_seen": "2026-10-22",
+    "score": 4.72
   },
   {
     "id": "341722f23838",
@@ -2807,7 +3069,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "b4818f0c1513",
@@ -2830,7 +3092,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "120a78ce821b",
@@ -2849,7 +3111,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "96a74c7cc6d1",
@@ -2867,7 +3129,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "b6e1f1a5accd",
@@ -2887,7 +3149,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "ca9728cdcb9b",
@@ -2902,7 +3164,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.75,
+    "score": 4.72,
     "tags": [
       "binary-analysis",
       "community"
@@ -2920,8 +3182,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-21",
-    "score": 4.75,
+    "last_seen": "2026-10-22",
+    "score": 4.72,
     "tags": [
       "windows",
       "discussion"
@@ -2940,7 +3202,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.75,
+    "score": 4.72,
     "tags": [
       "community"
     ]
@@ -2962,7 +3224,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-20",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "7f62c9e15df4",
@@ -2977,7 +3239,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 4.72,
+    "score": 4.69,
     "tags": [
       "dos",
       "reconstruction",
