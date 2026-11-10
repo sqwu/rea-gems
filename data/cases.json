@@ -15,8 +15,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
-    "score": 44.25
+    "last_seen": "2026-11-10",
+    "score": 44.22
   },
   {
     "id": "c42b48a7330d",
@@ -30,8 +30,8 @@
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 44.17,
+    "last_seen": "2026-11-10",
+    "score": 44.14,
     "tags": [
       "reconstruction",
       "official"
@@ -55,7 +55,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0
   },
   {
@@ -70,7 +70,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0,
     "tags": [
       "native",
@@ -92,7 +92,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0,
     "tags": [
       "android",
@@ -112,7 +112,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0,
     "tags": [
       "electron",
@@ -133,7 +133,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0,
     "tags": [
       "dos",
@@ -153,7 +153,7 @@
     "comments": 0,
     "published_at": null,
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "score": 40.0,
     "tags": [
       "native",
@@ -171,13 +171,13 @@
     "tags": [
       "community"
     ],
-    "stars": 4121,
+    "stars": 4166,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-09",
-    "score": 29.33
+    "last_seen": "2026-11-10",
+    "score": 29.34
   },
   {
     "id": "b680eaaf62b1",
@@ -185,18 +185,18 @@
     "title": "AIshihzong/awesome-reverse-engineer-anything",
     "source": "github",
     "category": "GitHub · ai-agents, awesome, awesome-list",
-    "description": "Awesome REA (Reverse Engineer Anything): what AI agents reverse-engineered and rebuilt, and which ones really used REA. Unofficial, bilingual, every case checked.",
+    "description": "Awesome REA (Reverse Engineer Anything): curated AI reverse engineering cases. What AI agents (REA, Craft Anything, Claude Code, Codex) reverse-engineered and rebuilt, open-source alternatives by app, and which ones really used REA. Unofficial, bilingual, every case checked.",
     "tags": [
       "reconstruction",
       "community"
     ],
-    "stars": 547,
+    "stars": 596,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-08",
-    "score": 23.17
+    "last_seen": "2026-11-10",
+    "score": 23.4
   },
   {
     "id": "079d4fce03f9",
@@ -208,13 +208,13 @@
     "tags": [
       "community"
     ],
-    "stars": 332,
+    "stars": 337,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-11-02",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-09",
-    "score": 22.23
+    "last_seen": "2026-11-10",
+    "score": 22.25
   },
   {
     "id": "b5c104566cc1",
@@ -226,13 +226,13 @@
     "tags": [
       "community"
     ],
-    "stars": 171,
+    "stars": 184,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
-    "score": 19.66
+    "last_seen": "2026-11-10",
+    "score": 19.86
   },
   {
     "id": "9d04d66cbfe5",
@@ -251,8 +251,8 @@
     "comments": 0,
     "published_at": "2026-10-23",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-09",
-    "score": 19.48
+    "last_seen": "2026-11-10",
+    "score": 19.45
   },
   {
     "id": "9b0798b54872",
@@ -265,13 +265,13 @@
       "reconstruction",
       "community"
     ],
-    "stars": 133,
+    "stars": 134,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-09",
-    "score": 19.0
+    "last_seen": "2026-11-10",
+    "score": 18.99
   },
   {
     "id": "9135d9263ffe",
@@ -280,13 +280,13 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链",
-    "stars": 95,
+    "stars": 97,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 17.89,
+    "last_seen": "2026-11-10",
+    "score": 17.92,
     "tags": [
       "community"
     ]
@@ -298,13 +298,13 @@
     "source": "github",
     "category": "GitHub · binary-analysis, cordis-plugin, deepseek-harness",
     "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
-    "stars": 80,
+    "stars": 82,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 17.41,
+    "last_seen": "2026-11-10",
+    "score": 17.45,
     "tags": [
       "android",
       "electron",
@@ -320,13 +320,13 @@
     "source": "github",
     "category": "GitHub",
     "description": "REA (Reverse Engineer Anything) explicado em PT/EN/ES: engenharia reversa com agentes de IA + Ghidra — links, casos, avaliação e cuidados",
-    "stars": 78,
+    "stars": 81,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 17.28,
+    "last_seen": "2026-11-10",
+    "score": 17.36,
     "tags": [
       "decompilation",
       "community"
@@ -348,8 +348,8 @@
     "comments": 39,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
-    "score": 17.16
+    "last_seen": "2026-11-10",
+    "score": 17.13
   },
   {
     "id": "6fe32a3eec9b",
@@ -370,7 +370,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-18",
-    "score": 16.24
+    "score": 16.22
   },
   {
     "id": "809d905dd0df",
@@ -387,8 +387,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-09",
-    "score": 15.99
+    "last_seen": "2026-11-10",
+    "score": 15.96
   },
   {
     "id": "5113e0d677ad",
@@ -403,7 +403,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 15.93,
+    "score": 15.9,
     "tags": [
       "native",
       "windows",
@@ -427,8 +427,8 @@
     "comments": 0,
     "published_at": "2026-10-09",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
-    "score": 15.49
+    "last_seen": "2026-11-10",
+    "score": 15.46
   },
   {
     "id": "bde60fbc6ea2",
@@ -449,7 +449,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 15.16
+    "score": 15.13
   },
   {
     "id": "bebc745cb248",
@@ -468,7 +468,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-27",
-    "score": 14.87
+    "score": 14.84
   },
   {
     "id": "2a7034b862ae",
@@ -481,13 +481,13 @@
       "android",
       "community"
     ],
-    "stars": 22,
+    "stars": 24,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-09",
-    "score": 13.74
+    "last_seen": "2026-11-10",
+    "score": 13.96
   },
   {
     "id": "631dc0510e5e",
@@ -499,13 +499,13 @@
     "tags": [
       "community"
     ],
-    "stars": 22,
+    "stars": 23,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-09",
-    "score": 13.71
+    "last_seen": "2026-11-10",
+    "score": 13.81
   },
   {
     "id": "90882be382d6",
@@ -525,8 +525,29 @@
     "comments": 0,
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-09",
-    "score": 13.63
+    "last_seen": "2026-11-10",
+    "score": 13.61
+  },
+  {
+    "id": "76fd9061d28f",
+    "url": "https://github.com/laaielichter/Reverseport",
+    "title": "laaielichter/Reverseport",
+    "source": "github",
+    "category": "GitHub · ai-agents, binary-analysis, claude-code",
+    "description": "Reverse engineer anything. Port it anywhere. MCP server, CLI and Claude Code plugin for AI coding agents: read Godot .pck, Unity IL2CPP, .NET and native builds (via your own Ghidra, IDA or Hopper), compare builds, keep proof for every claim, and port games between Godot, Unity, Unreal and three.js…",
+    "tags": [
+      "web",
+      "reconstruction",
+      "binary-analysis",
+      "community"
+    ],
+    "stars": 20,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-12",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-11-10",
+    "score": 13.33
   },
   {
     "id": "5d99d79d79e9",
@@ -545,28 +566,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-11-09",
-    "score": 13.24
-  },
-  {
-    "id": "76fd9061d28f",
-    "url": "https://github.com/laaielichter/Reverseport",
-    "title": "laaielichter/Reverseport",
-    "source": "github",
-    "category": "GitHub · ai-agents, binary-analysis, claude-code",
-    "description": "Reverse engineer anything. Port it anywhere. MCP server, CLI and Claude Code plugin for AI coding agents: read Godot .pck, Unity IL2CPP, .NET and native builds (via your own Ghidra, IDA or Hopper), compare builds, keep proof for every claim, and port games between Godot, Unity, Unreal and three.js…",
-    "tags": [
-      "web",
-      "reconstruction",
-      "binary-analysis",
-      "community"
-    ],
-    "stars": 18,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-12",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-11-09",
-    "score": 13.06
+    "score": 13.21
   },
   {
     "id": "2d66e1c249ce",
@@ -583,8 +583,8 @@
     "comments": 8,
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-09",
-    "score": 13.0
+    "last_seen": "2026-11-10",
+    "score": 12.97
   },
   {
     "id": "62c788a90467",
@@ -596,13 +596,13 @@
     "tags": [
       "community"
     ],
-    "stars": 6,
+    "stars": 7,
     "hn_points": 0,
     "comments": 0,
     "published_at": "2026-10-26",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-09",
-    "score": 10.45
+    "last_seen": "2026-11-10",
+    "score": 10.82
   },
   {
     "id": "20e3df976d8a",
@@ -617,7 +617,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-27",
-    "score": 10.43,
+    "score": 10.4,
     "tags": [
       "windows",
       "decompilation",
@@ -644,7 +644,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 10.25
+    "score": 10.23
   },
   {
     "id": "6fe8a4137e42",
@@ -666,7 +666,27 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-20",
-    "score": 10.23
+    "score": 10.2
+  },
+  {
+    "id": "e49c4e0ebba8",
+    "url": "https://github.com/psyb0t/docker-reverse-engineer-anything",
+    "title": "psyb0t/docker-reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub · adb, agent-skills, ai-agent",
+    "description": "REA (Reverse Engineer Anything) in Docker: Android APK decompilation with JADX, Apktool and adb built in, Ghidra on demand, behind a token-guarded Streamable HTTP MCP endpoint. Also stdio MCP and a CLI.",
+    "tags": [
+      "android",
+      "decompilation",
+      "community"
+    ],
+    "stars": 6,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-10-18",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-11-10",
+    "score": 10.2
   },
   {
     "id": "71aea0e48ae8",
@@ -683,8 +703,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-09",
-    "score": 10.06
+    "last_seen": "2026-11-10",
+    "score": 10.03
   },
   {
     "id": "c882d312a2cb",
@@ -703,7 +723,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-08",
-    "score": 9.63
+    "score": 9.6
   },
   {
     "id": "3a052cdb0f19",
@@ -726,7 +746,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-25",
-    "score": 9.08
+    "score": 9.05
   },
   {
     "id": "5369ddcbe2c9",
@@ -741,7 +761,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-11-08",
-    "score": 9.05,
+    "score": 9.02,
     "tags": [
       "reconstruction",
       "decompilation",
@@ -765,7 +785,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-31",
-    "score": 8.63
+    "score": 8.6
   },
   {
     "id": "9fde21fde03c",
@@ -782,8 +802,8 @@
     "comments": 0,
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-09",
-    "score": 8.31
+    "last_seen": "2026-11-10",
+    "score": 8.28
   },
   {
     "id": "d4e055900f66",
@@ -800,8 +820,8 @@
     "comments": 0,
     "published_at": "2026-11-04",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-09",
-    "score": 8.08
+    "last_seen": "2026-11-10",
+    "score": 8.05
   },
   {
     "id": "520786f904d2",
@@ -821,7 +841,7 @@
     "published_at": "2026-10-31",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-02",
-    "score": 8.05
+    "score": 8.02
   },
   {
     "id": "aaa7203e816f",
@@ -840,7 +860,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-11-03",
-    "score": 7.96
+    "score": 7.93
   },
   {
     "id": "ed7464a55721",
@@ -858,7 +878,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-27",
-    "score": 7.8
+    "score": 7.77
   },
   {
     "id": "4d6b3ae6d53a",
@@ -876,7 +896,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "score": 7.55
+    "score": 7.52
   },
   {
     "id": "5f2637e1fbb3",
@@ -891,7 +911,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 7.52,
+    "score": 7.49,
     "tags": [
       "web",
       "reconstruction",
@@ -911,8 +931,8 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 7.46,
+    "last_seen": "2026-11-10",
+    "score": 7.43,
     "tags": [
       "discussion"
     ]
@@ -929,8 +949,8 @@
     "comments": 0,
     "published_at": "2026-10-08",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 7.33,
+    "last_seen": "2026-11-10",
+    "score": 7.3,
     "tags": [
       "discussion"
     ]
@@ -954,8 +974,8 @@
     "comments": 0,
     "published_at": "2026-11-09",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
-    "score": 7.08
+    "last_seen": "2026-11-10",
+    "score": 7.05
   },
   {
     "id": "638c7f274861",
@@ -969,8 +989,8 @@
     "comments": 1,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 7.06,
+    "last_seen": "2026-11-10",
+    "score": 7.03,
     "tags": [
       "discussion"
     ]
@@ -994,7 +1014,7 @@
     "published_at": "2026-11-05",
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06",
-    "score": 6.97
+    "score": 6.94
   },
   {
     "id": "0063f7388f17",
@@ -1014,7 +1034,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
-    "score": 6.88
+    "score": 6.86
   },
   {
     "id": "2303da6bdaa9",
@@ -1034,7 +1054,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-06",
-    "score": 6.88
+    "score": 6.86
   },
   {
     "id": "d7d043264fba",
@@ -1054,7 +1074,7 @@
     "published_at": "2026-11-01",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-06",
-    "score": 6.86
+    "score": 6.83
   },
   {
     "id": "c215f73362be",
@@ -1074,7 +1094,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
-    "score": 6.77
+    "score": 6.75
   },
   {
     "id": "2d4933122323",
@@ -1091,8 +1111,8 @@
     "comments": 1,
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-09",
-    "score": 6.77
+    "last_seen": "2026-11-10",
+    "score": 6.75
   },
   {
     "id": "3d73fe86cabe",
@@ -1110,7 +1130,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-11-01",
-    "score": 6.75
+    "score": 6.72
   },
   {
     "id": "39fe1fcfad59",
@@ -1129,7 +1149,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 6.72
+    "score": 6.69
   },
   {
     "id": "d37b0a1de827",
@@ -1149,7 +1169,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-26",
-    "score": 6.63
+    "score": 6.61
   },
   {
     "id": "474313631aa3",
@@ -1167,7 +1187,7 @@
     "published_at": "2026-10-23",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-24",
-    "score": 6.61
+    "score": 6.58
   },
   {
     "id": "f3b5a689bc3a",
@@ -1186,7 +1206,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-23",
-    "score": 6.58
+    "score": 6.55
   },
   {
     "id": "fa7d22a3b80f",
@@ -1207,7 +1227,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-22",
-    "score": 6.52
+    "score": 6.5
   },
   {
     "id": "76cdd0963004",
@@ -1228,7 +1248,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
-    "score": 6.52
+    "score": 6.5
   },
   {
     "id": "4c21043a2c35",
@@ -1242,32 +1262,12 @@
     "comments": 9,
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 6.5,
+    "last_seen": "2026-11-10",
+    "score": 6.47,
     "tags": [
       "reconstruction",
       "discussion"
     ]
-  },
-  {
-    "id": "e49c4e0ebba8",
-    "url": "https://github.com/psyb0t/docker-reverse-engineer-anything",
-    "title": "psyb0t/docker-reverse-engineer-anything",
-    "source": "github",
-    "category": "GitHub · adb, agent-skills, ai-agent",
-    "description": "REA (Reverse Engineer Anything) in Docker: Android APK decompilation with JADX, Apktool and adb built in, Ghidra on demand, behind a token-guarded Streamable HTTP MCP endpoint. Also stdio MCP and a CLI.",
-    "tags": [
-      "android",
-      "decompilation",
-      "community"
-    ],
-    "stars": 1,
-    "hn_points": 0,
-    "comments": 0,
-    "published_at": "2026-10-18",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-20",
-    "score": 6.47
   },
   {
     "id": "635d33547d44",
@@ -1285,7 +1285,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-26",
-    "score": 6.47
+    "score": 6.44
   },
   {
     "id": "c37219e64fab",
@@ -1304,7 +1304,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 6.47
+    "score": 6.44
   },
   {
     "id": "d89c1fe0dd20",
@@ -1322,7 +1322,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 6.41
+    "score": 6.38
   },
   {
     "id": "59568b0a95b2",
@@ -1340,7 +1340,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-29",
-    "score": 6.38
+    "score": 6.36
   },
   {
     "id": "8c8e9487746e",
@@ -1360,7 +1360,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.38
+    "score": 6.36
   },
   {
     "id": "528ad1ddbc20",
@@ -1380,7 +1380,28 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 6.38
+    "score": 6.36
+  },
+  {
+    "id": "f82a5f1790a7",
+    "url": "https://github.com/morluto/rea/discussions/1435",
+    "title": "REA on Fedora-based Linux: setup notes, gotchas and my test queue",
+    "source": "discussion",
+    "category": "Discussion · Show and tell",
+    "description": "**TL;DR:** I tested REA on a Fedora-based Linux box (Nobara 44). Ghidra, Chromium, pwntools, the Android lane and the installer all work. Every Linux fix named here shipped in 6.4.0 or earlier, and this page is the one place for the Linux…",
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 8,
+    "published_at": "2026-10-10",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-10",
+    "score": 6.34,
+    "tags": [
+      "android",
+      "linux",
+      "decompilation",
+      "discussion"
+    ]
   },
   {
     "id": "cb8aad625fcf",
@@ -1400,28 +1421,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 6.36
-  },
-  {
-    "id": "f82a5f1790a7",
-    "url": "https://github.com/morluto/rea/discussions/1435",
-    "title": "REA on Fedora-based Linux: setup notes, gotchas and my test queue",
-    "source": "discussion",
-    "category": "Discussion · Show and tell",
-    "description": "**TL;DR:** I tested REA on a Fedora-based Linux box (Nobara 44). Ghidra, Chromium, pwntools, the Android lane and the installer all work. Every Linux fix named here shipped in 6.4.0 or earlier, and this page is the one place for the Linux…",
-    "stars": 0,
-    "hn_points": 0,
-    "comments": 8,
-    "published_at": "2026-10-10",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 6.36,
-    "tags": [
-      "android",
-      "linux",
-      "decompilation",
-      "discussion"
-    ]
+    "score": 6.33
   },
   {
     "id": "0b99c3ce4b73",
@@ -1439,7 +1439,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.33
+    "score": 6.3
   },
   {
     "id": "1937c174d70b",
@@ -1457,7 +1457,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 6.33
+    "score": 6.3
   },
   {
     "id": "151bb9d2b147",
@@ -1475,7 +1475,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 6.33
+    "score": 6.3
   },
   {
     "id": "cca0035829fa",
@@ -1497,7 +1497,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 6.3
+    "score": 6.27
   },
   {
     "id": "ea47b34a8802",
@@ -1512,7 +1512,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 6.3,
+    "score": 6.27,
     "tags": [
       "community"
     ]
@@ -1534,7 +1534,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-02",
-    "score": 6.3
+    "score": 6.27
   },
   {
     "id": "87ce73d9b498",
@@ -1552,7 +1552,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
-    "score": 6.27
+    "score": 6.25
   },
   {
     "id": "cefe982f4dc8",
@@ -1571,7 +1571,7 @@
     "published_at": "2026-10-10",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-26",
-    "score": 6.25
+    "score": 6.22
   },
   {
     "id": "0a452529f027",
@@ -1589,7 +1589,7 @@
     "published_at": "2026-10-10",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 6.25
+    "score": 6.22
   },
   {
     "id": "482475583ce8",
@@ -1604,7 +1604,7 @@
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-26",
-    "score": 6.25,
+    "score": 6.22,
     "tags": [
       "community"
     ]
@@ -1625,7 +1625,7 @@
     "published_at": "2026-10-09",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 6.22
+    "score": 6.19
   },
   {
     "id": "256ce9dca2ab",
@@ -1642,8 +1642,8 @@
     "comments": 4,
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-09",
-    "score": 5.89
+    "last_seen": "2026-11-10",
+    "score": 5.86
   },
   {
     "id": "3e405d2710ac",
@@ -1660,8 +1660,8 @@
     "comments": 3,
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-09",
-    "score": 5.83
+    "last_seen": "2026-11-10",
+    "score": 5.8
   },
   {
     "id": "4f4a4a646ad8",
@@ -1679,8 +1679,8 @@
     "comments": 3,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-09",
-    "score": 5.69
+    "last_seen": "2026-11-10",
+    "score": 5.66
   },
   {
     "id": "aac740f0ab90",
@@ -1698,7 +1698,7 @@
     "published_at": "2026-09-12",
     "first_seen": "2026-10-22",
     "last_seen": "2026-11-01",
-    "score": 5.47
+    "score": 5.44
   },
   {
     "id": "6fef4d2dd0e4",
@@ -1718,8 +1718,8 @@
     "comments": 2,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-09",
-    "score": 5.43
+    "last_seen": "2026-11-10",
+    "score": 5.4
   },
   {
     "id": "a2ead9f8db35",
@@ -1733,8 +1733,8 @@
     "comments": 2,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 5.32,
+    "last_seen": "2026-11-10",
+    "score": 5.29,
     "tags": [
       "linux",
       "discussion"
@@ -1752,14 +1752,51 @@
     "comments": 2,
     "published_at": "2026-10-10",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 5.27,
+    "last_seen": "2026-11-10",
+    "score": 5.24,
     "tags": [
       "web",
       "windows",
       "security-audit",
       "discussion"
     ]
+  },
+  {
+    "id": "2edaf78dd746",
+    "url": "https://github.com/suraj62838/Meeting-Notes",
+    "title": "suraj62838/Meeting-Notes",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Meeting Notes: a Mac & Windows app that records meetings (mic + system audio), transcribes English, Hindi & Hinglish with speaker labels, and writes Minutes of Meeting with summary, decisions and action items. Exports to Markdown/PDF. Bring your own Groq or other AI key. Built with the REA (Reverse…",
+    "tags": [
+      "windows",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-11-10",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "score": 5.0
+  },
+  {
+    "id": "227f9daa070b",
+    "url": "https://github.com/0xAungkon/RealmeDevanced",
+    "title": "0xAungkon/RealmeDevanced",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Realme Link Devanced - a cleaner, de-noised version of Realme Link from a loyal user. Built with REA (https://github.com/morluto/rea).",
+    "tags": [
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-11-09",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "score": 4.97
   },
   {
     "id": "d25318ecde41",
@@ -1778,8 +1815,8 @@
     "comments": 1,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-09",
-    "score": 5.0
+    "last_seen": "2026-11-10",
+    "score": 4.97
   },
   {
     "id": "16f345e37692",
@@ -1799,8 +1836,27 @@
     "comments": 0,
     "published_at": "2026-11-09",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
-    "score": 5.0
+    "last_seen": "2026-11-10",
+    "score": 4.97
+  },
+  {
+    "id": "aea2c602a647",
+    "url": "https://github.com/i77dopezone304-crypto/rea-reverse-engineer-anything",
+    "title": "i77dopezone304-crypto/rea-reverse-engineer-anything",
+    "source": "github",
+    "category": "GitHub",
+    "description": "Reverse Engineer Anything (REA) — configured for Ghidra decompiler analysis",
+    "tags": [
+      "decompilation",
+      "community"
+    ],
+    "stars": 0,
+    "hn_points": 0,
+    "comments": 0,
+    "published_at": "2026-11-09",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "score": 4.97
   },
   {
     "id": "ea18e40e2034",
@@ -1818,8 +1874,8 @@
     "comments": 0,
     "published_at": "2026-11-09",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
-    "score": 5.0
+    "last_seen": "2026-11-10",
+    "score": 4.97
   },
   {
     "id": "0192b7aa8b7c",
@@ -1841,8 +1897,8 @@
     "comments": 1,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-09",
-    "score": 5.0
+    "last_seen": "2026-11-10",
+    "score": 4.97
   },
   {
     "id": "e82bc6c80a3f",
@@ -1860,7 +1916,7 @@
     "published_at": "2026-11-08",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "bc9c79c9e182",
@@ -1879,7 +1935,7 @@
     "published_at": "2026-11-08",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "fe777badf983",
@@ -1898,7 +1954,7 @@
     "published_at": "2026-11-08",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "7fbef0bfb4f5",
@@ -1916,7 +1972,7 @@
     "published_at": "2026-11-08",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "score": 4.97
+    "score": 4.94
   },
   {
     "id": "1e6be5662a95",
@@ -1934,7 +1990,7 @@
     "published_at": "2026-11-07",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "38a11427a92e",
@@ -1954,7 +2010,7 @@
     "published_at": "2026-11-07",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-09",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "e912a2630bb9",
@@ -1972,7 +2028,7 @@
     "published_at": "2026-11-07",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-09",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "50bfd7e07d1e",
@@ -1990,7 +2046,7 @@
     "published_at": "2026-11-07",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-08",
-    "score": 4.94
+    "score": 4.92
   },
   {
     "id": "155d93d14d7d",
@@ -2010,8 +2066,8 @@
     "comments": 0,
     "published_at": "2026-11-06",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-09",
-    "score": 4.92
+    "last_seen": "2026-11-10",
+    "score": 4.89
   },
   {
     "id": "b7a98899fb93",
@@ -2029,7 +2085,7 @@
     "published_at": "2026-11-06",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "f63cca12a116",
@@ -2048,7 +2104,7 @@
     "published_at": "2026-11-06",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "62fa962fb68e",
@@ -2066,7 +2122,7 @@
     "published_at": "2026-11-06",
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-08",
-    "score": 4.92
+    "score": 4.89
   },
   {
     "id": "c9fb30b40190",
@@ -2084,7 +2140,7 @@
     "published_at": "2026-11-05",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "ead749edee4c",
@@ -2103,7 +2159,7 @@
     "published_at": "2026-11-05",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-08",
-    "score": 4.89
+    "score": 4.86
   },
   {
     "id": "78266f1fb750",
@@ -2122,7 +2178,7 @@
     "published_at": "2026-11-04",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-05",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "b7cb82ac13f6",
@@ -2140,7 +2196,7 @@
     "published_at": "2026-11-04",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
-    "score": 4.86
+    "score": 4.83
   },
   {
     "id": "30ccef12ed1b",
@@ -2160,7 +2216,7 @@
     "published_at": "2026-11-03",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-04",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "c9ab7706a002",
@@ -2179,7 +2235,7 @@
     "published_at": "2026-11-03",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-05",
-    "score": 4.83
+    "score": 4.81
   },
   {
     "id": "9be7b965e2ec",
@@ -2198,7 +2254,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "0df518170547",
@@ -2216,7 +2272,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "4bcc17e3428d",
@@ -2234,7 +2290,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "64b4d18fc9f5",
@@ -2252,7 +2308,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-03",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "77b0ca06ea3b",
@@ -2271,7 +2327,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-03",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "3c5188156e20",
@@ -2290,7 +2346,7 @@
     "published_at": "2026-11-02",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-05",
-    "score": 4.81
+    "score": 4.78
   },
   {
     "id": "4e24e816315e",
@@ -2308,7 +2364,7 @@
     "published_at": "2026-11-01",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "49e0035b41b0",
@@ -2327,7 +2383,7 @@
     "published_at": "2026-11-01",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-05",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "06cd85c0c1e4",
@@ -2348,7 +2404,7 @@
     "published_at": "2026-11-01",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
-    "score": 4.78
+    "score": 4.75
   },
   {
     "id": "5bdf03be73b8",
@@ -2366,7 +2422,7 @@
     "published_at": "2026-10-31",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-02",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "65a69256b71a",
@@ -2384,7 +2440,7 @@
     "published_at": "2026-10-31",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "9346196b5b6f",
@@ -2401,8 +2457,8 @@
     "comments": 0,
     "published_at": "2026-10-31",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-09",
-    "score": 4.75
+    "last_seen": "2026-11-10",
+    "score": 4.72
   },
   {
     "id": "a5a677a2790e",
@@ -2424,7 +2480,7 @@
     "published_at": "2026-10-31",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "251e32b01668",
@@ -2442,7 +2498,7 @@
     "published_at": "2026-10-31",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-02",
-    "score": 4.75
+    "score": 4.72
   },
   {
     "id": "d9ec1a9d32b9",
@@ -2460,7 +2516,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "4dfa068fa12a",
@@ -2481,7 +2537,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "560678e278b8",
@@ -2501,7 +2557,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "af925abc3a45",
@@ -2519,7 +2575,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "ffd92b4c3c0f",
@@ -2539,7 +2595,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-02",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "c5567e229449",
@@ -2558,7 +2614,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-03",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "d78c76dda950",
@@ -2576,7 +2632,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-02",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "a2542a3cbb52",
@@ -2594,7 +2650,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "9bf5d0f0707b",
@@ -2612,7 +2668,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "314b8e4183e3",
@@ -2630,7 +2686,7 @@
     "published_at": "2026-10-30",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "score": 4.72
+    "score": 4.69
   },
   {
     "id": "3b647dd4a041",
@@ -2651,7 +2707,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-08",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "107ac041d37b",
@@ -2669,7 +2725,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "cd9b53964fd3",
@@ -2689,7 +2745,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-02",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "a43120d0b529",
@@ -2709,7 +2765,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-31",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "1747b89f98c8",
@@ -2727,7 +2783,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "663e60ea1ba3",
@@ -2746,7 +2802,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "493876277689",
@@ -2764,7 +2820,7 @@
     "published_at": "2026-10-29",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
-    "score": 4.69
+    "score": 4.67
   },
   {
     "id": "0a1a2440f43b",
@@ -2782,7 +2838,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-01",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "67fcbe36bf83",
@@ -2803,7 +2859,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "4c82647c0750",
@@ -2821,7 +2877,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "e9e32c0a6354",
@@ -2839,7 +2895,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "257955c1d55b",
@@ -2857,7 +2913,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-11-05",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "de6610f7c7d0",
@@ -2875,7 +2931,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "756858739aec",
@@ -2893,7 +2949,7 @@
     "published_at": "2026-10-28",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
-    "score": 4.67
+    "score": 4.64
   },
   {
     "id": "58b78578d12c",
@@ -2915,7 +2971,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-29",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "e21fee28397a",
@@ -2933,7 +2989,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-30",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "6392980f8f6b",
@@ -2951,7 +3007,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "74bc3018278b",
@@ -2969,7 +3025,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "8bffd4afadf9",
@@ -2989,7 +3045,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "90d7e2a44b7a",
@@ -3007,7 +3063,7 @@
     "published_at": "2026-10-27",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-31",
-    "score": 4.64
+    "score": 4.61
   },
   {
     "id": "10b4f447f975",
@@ -3025,7 +3081,7 @@
     "published_at": "2026-10-26",
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-05",
-    "score": 4.61
+    "score": 4.58
   },
   {
     "id": "2b652f876ef3",
@@ -3043,7 +3099,7 @@
     "published_at": "2026-10-26",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "score": 4.61
+    "score": 4.58
   },
   {
     "id": "fc42f78064ce",
@@ -3063,7 +3119,7 @@
     "published_at": "2026-10-26",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "score": 4.61
+    "score": 4.58
   },
   {
     "id": "ea582f0f53ae",
@@ -3083,7 +3139,7 @@
     "published_at": "2026-10-26",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "score": 4.61
+    "score": 4.58
   },
   {
     "id": "43efe1e932e7",
@@ -3104,7 +3160,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "272531eb6791",
@@ -3124,7 +3180,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "6658827b817f",
@@ -3142,7 +3198,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "1de930f5b05a",
@@ -3161,7 +3217,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "cc55ae8afbc3",
@@ -3179,7 +3235,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "f474af0a970e",
@@ -3197,7 +3253,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-27",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "11aae353bed8",
@@ -3215,7 +3271,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "ae0d7e551799",
@@ -3233,7 +3289,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "a73b19c02565",
@@ -3251,7 +3307,7 @@
     "published_at": "2026-10-25",
     "first_seen": "2026-10-26",
     "last_seen": "2026-10-26",
-    "score": 4.58
+    "score": 4.56
   },
   {
     "id": "2811c015d470",
@@ -3269,7 +3325,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-29",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "31ef0705511e",
@@ -3287,7 +3343,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "c02b09495c05",
@@ -3305,7 +3361,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "4c507c939a47",
@@ -3324,7 +3380,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-25",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "35d5a219b2b9",
@@ -3342,7 +3398,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "36e70ec1d5ac",
@@ -3360,7 +3416,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-24",
     "last_seen": "2026-11-09",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "df4542c3e51f",
@@ -3378,7 +3434,7 @@
     "published_at": "2026-10-24",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "score": 4.56
+    "score": 4.53
   },
   {
     "id": "531279960f61",
@@ -3396,7 +3452,7 @@
     "published_at": "2026-10-23",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-28",
-    "score": 4.53
+    "score": 4.5
   },
   {
     "id": "be7b192b4140",
@@ -3415,7 +3471,7 @@
     "published_at": "2026-10-23",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-24",
-    "score": 4.53
+    "score": 4.5
   },
   {
     "id": "827bdbc89471",
@@ -3433,7 +3489,7 @@
     "published_at": "2026-10-23",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-24",
-    "score": 4.53
+    "score": 4.5
   },
   {
     "id": "4372d2456b1c",
@@ -3451,7 +3507,7 @@
     "published_at": "2026-10-23",
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-24",
-    "score": 4.53
+    "score": 4.5
   },
   {
     "id": "0139952cacd5",
@@ -3472,7 +3528,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-23",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "f39aca26d58d",
@@ -3490,7 +3546,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-29",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "ec00cd3241e5",
@@ -3509,7 +3565,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "b34a8cd290e4",
@@ -3527,7 +3583,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-23",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "2395434e0ecd",
@@ -3545,7 +3601,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-27",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "ad90a74a0a5a",
@@ -3565,7 +3621,26 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
-    "score": 4.5
+    "score": 4.47
+  },
+  {
+    "id": "381c48e820d5",
+    "url": "https://news.ycombinator.com/item?id=48901763",
+    "title": "Show HN: A MCP for Agents to reverse engineer binary code",
+    "source": "hackernews",
+    "category": "Hacker News",
+    "description": "HN discussion: https://github.com/morluto/rea",
+    "stars": 0,
+    "hn_points": 3,
+    "comments": 0,
+    "published_at": "2026-07-14",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-10",
+    "score": 4.47,
+    "tags": [
+      "binary-analysis",
+      "discussion"
+    ]
   },
   {
     "id": "21c5b8df6526",
@@ -3584,7 +3659,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-23",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "65a3bcd0abe6",
@@ -3603,7 +3678,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
-    "score": 4.5
+    "score": 4.47
   },
   {
     "id": "bafcc7420ed8",
@@ -3621,26 +3696,7 @@
     "published_at": "2026-10-22",
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
-    "score": 4.5
-  },
-  {
-    "id": "381c48e820d5",
-    "url": "https://news.ycombinator.com/item?id=48901763",
-    "title": "Show HN: A MCP for Agents to reverse engineer binary code",
-    "source": "hackernews",
-    "category": "Hacker News",
-    "description": "HN discussion: https://github.com/morluto/rea",
-    "stars": 0,
-    "hn_points": 3,
-    "comments": 0,
-    "published_at": "2026-07-14",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 4.49,
-    "tags": [
-      "binary-analysis",
-      "discussion"
-    ]
+    "score": 4.47
   },
   {
     "id": "646e3d013c03",
@@ -3658,7 +3714,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-31",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "e0471361a4df",
@@ -3676,7 +3732,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "b197d3880480",
@@ -3694,7 +3750,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "2ce6a657333c",
@@ -3713,7 +3769,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-11-04",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "1b62a0e0d8e6",
@@ -3731,7 +3787,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "ab99a5db0834",
@@ -3750,7 +3806,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "470189e9f886",
@@ -3768,7 +3824,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "46ef6f7b903c",
@@ -3787,7 +3843,7 @@
     "published_at": "2026-10-21",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-25",
-    "score": 4.47
+    "score": 4.44
   },
   {
     "id": "5c360d320da2",
@@ -3805,7 +3861,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "e05e98129790",
@@ -3823,7 +3879,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "ebbe23fdc419",
@@ -3843,7 +3899,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "d8e6e3c3df51",
@@ -3863,7 +3919,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "21ff85ef8351",
@@ -3883,7 +3939,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "4287d01e7355",
@@ -3901,7 +3957,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "8e22c3fa8e40",
@@ -3919,7 +3975,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "bd84e302724a",
@@ -3937,7 +3993,7 @@
     "published_at": "2026-10-20",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "score": 4.44
+    "score": 4.42
   },
   {
     "id": "36d98b1f75c4",
@@ -3955,8 +4011,8 @@
     "comments": 0,
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-09",
-    "score": 4.42
+    "last_seen": "2026-11-10",
+    "score": 4.39
   },
   {
     "id": "69302c2bced8",
@@ -3974,7 +4030,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "11eba74f21eb",
@@ -3992,7 +4048,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "fd2b05eb9aa3",
@@ -4010,7 +4066,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "5e375539a1fe",
@@ -4028,7 +4084,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-25",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "f62f92151ddf",
@@ -4046,7 +4102,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "cdaf8dc58e56",
@@ -4063,8 +4119,8 @@
     "comments": 0,
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-09",
-    "score": 4.42
+    "last_seen": "2026-11-10",
+    "score": 4.39
   },
   {
     "id": "dba539427ed5",
@@ -4082,7 +4138,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "48d149f9b020",
@@ -4101,7 +4157,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "3f83135f1eda",
@@ -4120,7 +4176,7 @@
     "published_at": "2026-10-19",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.42
+    "score": 4.39
   },
   {
     "id": "5e7647fe7b4a",
@@ -4139,7 +4195,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "2edac9480f02",
@@ -4157,7 +4213,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "cb2f824f5ceb",
@@ -4178,7 +4234,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "86455a12199d",
@@ -4196,7 +4252,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-19",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "26fae797e209",
@@ -4214,7 +4270,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "8b7272273238",
@@ -4232,7 +4288,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "57f5f6e14f78",
@@ -4250,7 +4306,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-11-06",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "5f615eee8ea6",
@@ -4268,7 +4324,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "24ca19a403f3",
@@ -4286,7 +4342,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "43888872272c",
@@ -4304,7 +4360,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "7dc01958242f",
@@ -4323,7 +4379,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-18",
     "last_seen": "2026-11-01",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "c7f54a62baa1",
@@ -4341,7 +4397,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "8cad60757159",
@@ -4361,7 +4417,7 @@
     "published_at": "2026-10-18",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "score": 4.39
+    "score": 4.36
   },
   {
     "id": "c549730b2fe1",
@@ -4381,7 +4437,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "a3ba1f1bee4c",
@@ -4399,7 +4455,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "d6de680e817f",
@@ -4418,7 +4474,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "07a53bc987f4",
@@ -4437,7 +4493,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-21",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "e60a69363c35",
@@ -4456,8 +4512,8 @@
     "comments": 0,
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-11-09",
-    "score": 4.36
+    "last_seen": "2026-11-10",
+    "score": 4.33
   },
   {
     "id": "6a6cbdcb2263",
@@ -4476,7 +4532,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "e86cffac7659",
@@ -4495,7 +4551,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "6b25cfd62a7c",
@@ -4513,7 +4569,7 @@
     "published_at": "2026-10-17",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "score": 4.36
+    "score": 4.33
   },
   {
     "id": "57b32b5b6227",
@@ -4533,7 +4589,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "e6ccb64316ae",
@@ -4550,8 +4606,8 @@
     "comments": 0,
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-09",
-    "score": 4.33
+    "last_seen": "2026-11-10",
+    "score": 4.31
   },
   {
     "id": "183b081f665b",
@@ -4569,7 +4625,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "0a2712ed1d76",
@@ -4587,7 +4643,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "6fae20f0fd19",
@@ -4605,7 +4661,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "624f08407f3c",
@@ -4624,7 +4680,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-17",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "d9a7da6dadac",
@@ -4642,7 +4698,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "6ee92a8e421d",
@@ -4660,7 +4716,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "44c630cc64c8",
@@ -4678,7 +4734,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-22",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "68bc1b94eb13",
@@ -4696,7 +4752,7 @@
     "published_at": "2026-10-16",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.33
+    "score": 4.31
   },
   {
     "id": "84a4a8798453",
@@ -4714,7 +4770,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "c1192aff5f0b",
@@ -4732,7 +4788,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "11164c56e906",
@@ -4750,7 +4806,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "b02b8f77eb09",
@@ -4768,7 +4824,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "2624c5f73638",
@@ -4786,7 +4842,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "ed648dd30ed6",
@@ -4803,8 +4859,8 @@
     "comments": 0,
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-09",
-    "score": 4.31
+    "last_seen": "2026-11-10",
+    "score": 4.28
   },
   {
     "id": "dc9c69f9ef70",
@@ -4822,7 +4878,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "d72fa55f1581",
@@ -4840,7 +4896,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "8ed51ceb0bbd",
@@ -4859,7 +4915,7 @@
     "published_at": "2026-10-15",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "score": 4.31
+    "score": 4.28
   },
   {
     "id": "1ceb6940d83a",
@@ -4879,7 +4935,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "36ce44da03b7",
@@ -4897,7 +4953,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-17",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "611f867b327b",
@@ -4915,7 +4971,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "2cf5ed77c14e",
@@ -4933,7 +4989,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-17",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "0053bdcee9db",
@@ -4951,7 +5007,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "ae81e098eb8d",
@@ -4969,7 +5025,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "cf19cb6ab11d",
@@ -4988,7 +5044,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "2069a48f0266",
@@ -5009,7 +5065,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "71e5e565482c",
@@ -5030,7 +5086,7 @@
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-16",
-    "score": 4.28
+    "score": 4.25
   },
   {
     "id": "b03df9b972fb",
@@ -5047,8 +5103,8 @@
     "comments": 0,
     "published_at": "2026-10-14",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-09",
-    "score": 4.28
+    "last_seen": "2026-11-10",
+    "score": 4.25
   },
   {
     "id": "0e0899e60592",
@@ -5067,7 +5123,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "bd1d2e084eb2",
@@ -5086,8 +5142,8 @@
     "comments": 0,
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-09",
-    "score": 4.25
+    "last_seen": "2026-11-10",
+    "score": 4.22
   },
   {
     "id": "178f21a6893c",
@@ -5105,7 +5161,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "fdba095a7526",
@@ -5126,7 +5182,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-19",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "b32618058cf7",
@@ -5144,7 +5200,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "b0b6bfc5763e",
@@ -5162,7 +5218,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "2ddb42f501cd",
@@ -5180,7 +5236,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "d298ceac6988",
@@ -5199,7 +5255,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "23a4ac84e0a1",
@@ -5221,7 +5277,7 @@
     "published_at": "2026-10-13",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
-    "score": 4.25
+    "score": 4.22
   },
   {
     "id": "15fb135c1254",
@@ -5239,8 +5295,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
-    "score": 4.22
+    "last_seen": "2026-11-10",
+    "score": 4.19
   },
   {
     "id": "341722f23838",
@@ -5258,7 +5314,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.22
+    "score": 4.19
   },
   {
     "id": "b4818f0c1513",
@@ -5281,7 +5337,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.22
+    "score": 4.19
   },
   {
     "id": "120a78ce821b",
@@ -5300,7 +5356,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "score": 4.22
+    "score": 4.19
   },
   {
     "id": "96a74c7cc6d1",
@@ -5318,7 +5374,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.22
+    "score": 4.19
   },
   {
     "id": "b6e1f1a5accd",
@@ -5338,7 +5394,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "score": 4.22
+    "score": 4.19
   },
   {
     "id": "ca9728cdcb9b",
@@ -5353,7 +5409,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.22,
+    "score": 4.19,
     "tags": [
       "binary-analysis",
       "community"
@@ -5371,8 +5427,8 @@
     "comments": 0,
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-09",
-    "score": 4.22,
+    "last_seen": "2026-11-10",
+    "score": 4.19,
     "tags": [
       "windows",
       "discussion"
@@ -5391,7 +5447,7 @@
     "published_at": "2026-10-12",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-13",
-    "score": 4.22,
+    "score": 4.19,
     "tags": [
       "community"
     ]
@@ -5409,7 +5465,7 @@
     "published_at": "2026-10-11",
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
-    "score": 4.19,
+    "score": 4.17,
     "tags": [
       "dos",
       "reconstruction",
