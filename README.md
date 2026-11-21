@@ -5,7 +5,7 @@
 </p>
 
 [![Auto-updated daily](https://img.shields.io/badge/auto--updated-daily-brightgreen)](https://github.com/sqwu/rea-gems/actions/workflows/update.yml)
-[![Cases](https://img.shields.io/badge/cases-326-blue)](data/cases.json)
+[![Cases](https://img.shields.io/badge/cases-329-blue)](data/cases.json)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 **A curated, auto-updated gallery of excellent reverse-engineering cases built with [REA](https://github.com/morluto/rea).**
@@ -21,7 +21,7 @@ and discussions, collected automatically from across the web.
   <img src="assets/og-cover.svg" width="640" alt="REA Gems — cover banner" />
 </p>
 
-> **326 cases** collected · **181 added in the last 30 days** · last refresh: **2026-11-20 (UTC)**
+> **329 cases** collected · **172 added in the last 30 days** · last refresh: **2026-11-21 (UTC)**
 
 <details>
 <summary><strong>Disclaimer</strong></summary>
@@ -66,23 +66,23 @@ Open-source repos, rebuilds and reimplementations made with REA.
 
 | Case | Source | Tags | Highlights | First seen |
 |------|--------|------|------------|------------|
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | GitHub project | `community` | ★ 4,387 | 2026-10-17 |
-| [AIshihzong/awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | GitHub project | `reconstruction` `community` | ★ 826 | 2026-10-18 |
-| [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | GitHub project | `community` | ★ 440 | 2026-11-02 |
-| [Fanqi89/dsh-rea](https://github.com/Fanqi89/dsh-rea) | GitHub project | `community` | ★ 230 | 2026-10-13 |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | GitHub project | `community` | ★ 4,402 | 2026-10-17 |
+| [AIshihzong/awesome-reverse-engineer-anything](https://github.com/AIshihzong/awesome-reverse-engineer-anything) | GitHub project | `reconstruction` `community` | ★ 839 | 2026-10-18 |
+| [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | GitHub project | `community` | ★ 443 | 2026-11-02 |
+| [Fanqi89/dsh-rea](https://github.com/Fanqi89/dsh-rea) | GitHub project | `community` | ★ 232 | 2026-10-13 |
 | [Speedrunlab/reverse-engineer-anything-self-learning-loop](https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop) | GitHub project | `native` `reconstruction` `community` | ★ 150 | 2026-10-23 |
 | [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | GitHub project | `reconstruction` `community` | ★ 139 | 2026-10-15 |
-| [ringozzt/rea-research](https://github.com/ringozzt/rea-research) | GitHub project | `community` | ★ 103 | 2026-10-12 |
-| [inematds/rea-engenharia-reversa](https://github.com/inematds/rea-engenharia-reversa) | GitHub project | `decompilation` `community` | ★ 96 | 2026-10-12 |
-| [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) | GitHub project | `android` `electron` `decompilation` `binary-analysis` `community` | ★ 88 | 2026-10-12 |
+| [ringozzt/rea-research](https://github.com/ringozzt/rea-research) | GitHub project | `community` | ★ 104 | 2026-10-12 |
+| [inematds/rea-engenharia-reversa](https://github.com/inematds/rea-engenharia-reversa) | GitHub project | `decompilation` `community` | ★ 98 | 2026-10-12 |
+| [czcdr/dsh-plugin-rea](https://github.com/czcdr/dsh-plugin-rea) | GitHub project | `android` `electron` `decompilation` `binary-analysis` `community` | ★ 89 | 2026-10-12 |
 | [REA-Gith/REA](https://github.com/REA-Gith/REA) | GitHub project | `native` `windows` `decompilation` `community` | ★ 52 | 2026-10-17 |
 | [dav1dngy/era-agent](https://github.com/dav1dngy/era-agent) | GitHub project | `community` | ★ 52 | 2026-10-14 |
 | [ReverseEngineerAnything/REA](https://github.com/ReverseEngineerAnything/REA) | GitHub project | `native` `windows` `decompilation` `community` | ★ 49 | 2026-10-12 |
 | [valorisa/Reverse-Engineer-Anything](https://github.com/valorisa/Reverse-Engineer-Anything) | GitHub project | `decompilation` `community` | ★ 45 | 2026-10-13 |
 | [rea-githu/REA](https://github.com/rea-githu/REA) | GitHub project | `native` `windows` `decompilation` `community` | ★ 37 | 2026-10-14 |
-| [smartworldarafath/REA_Skill](https://github.com/smartworldarafath/REA_Skill) | GitHub project | `community` | ★ 30 | 2026-10-27 |
+| [smartworldarafath/REA_Skill](https://github.com/smartworldarafath/REA_Skill) | GitHub project | `community` | ★ 31 | 2026-10-27 |
 | [ReverseEngineer-Anything/REA-Github](https://github.com/ReverseEngineer-Anything/REA-Github) | GitHub project | `decompilation` `community` | ★ 31 | 2026-10-22 |
-| [awesomerea/awesome-rea](https://github.com/awesomerea/awesome-rea) | GitHub project | `community` | ★ 31 | 2026-10-16 |
+| [awesomerea/awesome-rea](https://github.com/awesomerea/awesome-rea) | GitHub project | `community` | ★ 32 | 2026-10-16 |
 | [git-sanbu/awesome-rea](https://github.com/git-sanbu/awesome-rea) | GitHub project | `android` `community` | ★ 29 | 2026-10-16 |
 | [alexmi256/rea-agent-docker](https://github.com/alexmi256/rea-agent-docker) | GitHub project | `decompilation` `community` | ★ 26 | 2026-10-14 |
 | [laaielichter/Reverseport](https://github.com/laaielichter/Reverseport) | GitHub project | `web` `reconstruction` `binary-analysis` `community` | ★ 25 | 2026-10-19 |
@@ -109,6 +109,7 @@ Open-source repos, rebuilds and reimplementations made with REA.
 | [sheilacraig/dsh-rea-mcp](https://github.com/sheilacraig/dsh-rea-mcp) | GitHub project | `community` | ★ 2 | 2026-10-13 |
 | [laaielichter/reverseport](https://github.com/laaielichter/reverseport) | GitHub project | `web` `reconstruction` `binary-analysis` `community` | ★ 2 | 2026-10-12 |
 | [Sage-is/CleanRoom](https://github.com/Sage-is/CleanRoom) | GitHub project | `reconstruction` `community` | ★ 2 | 2026-10-25 |
+| [CassieFox23/rea-board](https://github.com/CassieFox23/rea-board) | GitHub project | `community` | ★ 1 | 2026-11-21 |
 | [maxmonice/MXM-Penetrator](https://github.com/maxmonice/MXM-Penetrator) | GitHub project | `web` `security-audit` `community` | ★ 1 | 2026-11-16 |
 | [ahpah-dev/Reversey](https://github.com/ahpah-dev/Reversey) | GitHub project | `community` | ★ 1 | 2026-11-12 |
 | [jahonn/rea-agent](https://github.com/jahonn/rea-agent) | GitHub project | `community` | ★ 1 | 2026-11-12 |
@@ -125,9 +126,8 @@ Open-source repos, rebuilds and reimplementations made with REA.
 | [Verisw/rea-dsh](https://github.com/Verisw/rea-dsh) | GitHub project | `web` `decompilation` `community` | ★ 1 | 2026-10-25 |
 | [jtcjwm/dsh-rea-own](https://github.com/jtcjwm/dsh-rea-own) | GitHub project | `community` | ★ 1 | 2026-10-24 |
 | [womp08310-cyber/rea-antigravity](https://github.com/womp08310-cyber/rea-antigravity) | GitHub project | `decompilation` `community` | ★ 1 | 2026-10-22 |
-| [67rb/reverse-engineer-anything-beta](https://github.com/67rb/reverse-engineer-anything-beta) | GitHub project | `electron` `web` `macos` `community` | ★ 1 | 2026-10-21 |
 
-*… 228 more in [data/cases.json]](data/cases.json).*
+*… 231 more in [data/cases.json]](data/cases.json).*
 
 
 ### Posts & discussions
@@ -154,13 +154,13 @@ Hacker News threads, GitHub discussions and Reddit posts showing REA in action.
 | [Awesome REA: a curated list of 250 REA resources, projects built with it, tools, and guides](https://github.com/morluto/rea/discussions/4470) | GitHub discussion | `electron` `native` `web` `discussion` | 💬 2 | 2026-10-17 |
 | [Benchmarks: REA on Linux (Node 22, 24 and 26 startup, plus five local models)](https://github.com/morluto/rea/discussions/1998) | GitHub discussion | `linux` `discussion` | 💬 2 | 2026-10-12 |
 | [Showcase: outside-in "leak check" of a production Next.js + Stripe app on Windows](https://github.com/morluto/rea/discussions/1406) | GitHub discussion | `web` `windows` `security-audit` `discussion` | 💬 2 | 2026-10-12 |
+| [Built a defensive counterpart: check your own site the way REA would](https://github.com/morluto/rea/discussions/4328) | GitHub discussion | `discussion` | 💬 1 | 2026-10-16 |
 | [Community resource: Reverse Engineering 101 with REA + Ghidra](https://github.com/morluto/rea/discussions/3791) | GitHub discussion | `.net` `decompilation` `discussion` | 💬 1 | 2026-10-15 |
 | [Show and tell: LX-D02 thermal printer on Windows (React Native/Hermes app reversed)](https://github.com/morluto/rea/discussions/4152) | GitHub discussion | `android` `native` `web` `ios` `windows` | 💬 1 | 2026-10-16 |
 | [Show HN: A MCP for Agents to reverse engineer binary code](https://news.ycombinator.com/item?id=48901763) | Hacker News | `binary-analysis` `discussion` | HN 3 pts | 2026-10-12 |
 | [A worked example in Spanish: complete REA + Ghidra case with practice files](https://github.com/morluto/rea/discussions/5141) | GitHub discussion | `decompilation` `discussion` | — | 2026-10-19 |
 | [REA Safe Agent: running REA and the coding agent in two network-less containers for untrusted files (unofficial)](https://github.com/morluto/rea/discussions/5255) | GitHub discussion | `discussion` | — | 2026-10-20 |
 | [Python-native REA implementation for MCP (unofficial)](https://github.com/morluto/rea/discussions/4728) | GitHub discussion | `native` `reconstruction` `discussion` | — | 2026-10-18 |
-| [Built a defensive counterpart: check your own site the way REA would](https://github.com/morluto/rea/discussions/4328) | GitHub discussion | `discussion` | — | 2026-10-16 |
 | [Reverse Engineering toolkit](https://github.com/morluto/rea/discussions/3845) | GitHub discussion | `discussion` | — | 2026-10-15 |
 | [Project #000002: Tax Reborn now runs on desktop and Android (code + downloads)](https://github.com/morluto/rea/discussions/3110) | GitHub discussion | `android` `windows` `feature-tracing` `discussion` | — | 2026-10-14 |
 | [Showcase: keeping browser-use tasks moving when a CAPTCHA interrupts the run](https://github.com/morluto/rea/discussions/3579) | GitHub discussion | `discussion` | — | 2026-10-15 |
